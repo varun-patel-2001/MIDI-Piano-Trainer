@@ -1,0 +1,11 @@
+[project]
+name = "MIDI Piano Trainer"
+version = "0.1.0"
+description = "MIDI based piano trainer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mido>=1.3.3",
+    "pygame>=2.6.1",
+    "python-rtmidi>=1.5.8",
+]

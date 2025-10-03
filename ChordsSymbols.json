@@ -1,0 +1,1332 @@
+{
+    "Chord Symbols": {
+        "Triads": {
+            "Major": ["","M","maj","Δ"],
+            "Minor": ["m","min","-"],
+            "Augmented": ["aug","+"],
+            "Diminished": ["dim","o"],
+            "Suspended Second": ["sus2"],
+            "Suspended Fourth": ["sus","sus4"]
+        },
+        "Sixth": {
+            "Major Sixth": ["6","M6","maj6","Δ6"],
+            "Minor Sixth": ["m6","min6","-6"]
+        },
+        "Sevenths": {
+            "Major": ["M7","maj7","Δ7"],
+            "Dominant": ["7","dom7"],
+            "Dominant Sharp Fifth": ["aug7","+7","7(♯5)","7(+5)"],
+            "Dominant Flat Fifth": ["7(♭5)","7(-5)","dom7(♭5)"],
+            "Dominant Suspended Second": ["7sus2"],
+            "Dominant Suspended Fourth": ["7sus","7sus4"],
+            "Minor Major": ["m(M7)","min(maj7)","-Δ7"],
+            "Minor": ["m7","min7","-7"],
+            "Half Diminished": ["ø7","m7(♭5)","min7(♭5)","-7(♭5)","m7(-5)"],
+            "Diminished": ["dim7","o7"],
+            "Augmented": ["aug7","+7","7(♯5)","7(+5)"]
+        },
+        "Ninths": {
+            "Ninth":{
+                "Triads": {
+                    "Major": ["(add9)","M(add9)","maj(add9)","Δ(add9)"],
+                    "Minor": ["m(add9)","min(add9)","-(add9)"],
+                    "Augmented": ["aug(add9)","+(add9)"],
+                    "Diminished": ["dim(add9)","o(add9)"],
+                    "Suspended Second": ["sus2(add9)"],
+                    "Suspended Fourth": ["sus(add9)","sus4(add9)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6/9","M6/9","maj6/9","Δ6/9"],
+                    "Minor Sixth": ["m6/9","min6/9","-6/9"]
+                },
+                "Sevenths": {
+                    "Major": ["M9","maj9","Δ9"],
+                    "Dominant": ["9","dom9"],
+                    "Dominant Sharp Fifth": ["aug9","+9","9(♯5)","9(+5)"],
+                    "Dominant Flat Fifth": ["9(♭5)","9(-5)","dom9(♭5)"],
+                    "Dominant Suspended Second": ["9sus2"],
+                    "Dominant Suspended Fourth": ["9sus","9sus4"],
+                    "Minor Major": ["m(M9)","min(maj9)","-Δ9"],
+                    "Minor": ["m9","min9","-9"],
+                    "Half Diminished": ["ø9","m9(♭5)","min9(♭5)","-9(♭5)","m9(-5)"],
+                    "Diminished": ["dim9","o9"],
+                    "Augmented": ["aug9","+9","9(♯5)","9(+5)"]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": ["(add♭9)","M(add♭9)","maj(add♭9)","Δ(add♭9)"],
+                    "Minor": ["m(add♭9)","min(add♭9)","-(add♭9)"],
+                    "Augmented": ["aug(add♭9)","+(add♭9)"],
+                    "Diminished": ["dim(add♭9)","o(add♭9)"],
+                    "Suspended Second": ["sus2(add♭9)"],
+                    "Suspended Fourth": ["sus(add♭9)","sus4(add♭9)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6/♭9","M6/♭9","maj6/♭9","Δ6/♭9"],
+                    "Minor Sixth": ["m6/♭9","min6/♭9","-6/♭9"]
+                },
+                "Sevenths": {
+                    "Major": ["M♭9","maj♭9","Δ♭9"],
+                    "Dominant": ["♭9","dom♭9"],
+                    "Dominant Sharp Fifth": ["aug♭9","+♭9","♭9(♯5)","♭9(+5)"],
+                    "Dominant Flat Fifth": ["♭9(♭5)","♭9(-5)","dom♭9(♭5)"],
+                    "Dominant Suspended Second": ["♭9sus2"],
+                    "Dominant Suspended Fourth": ["♭9sus","♭9sus4"],
+                    "Minor Major": ["m(M♭9)","min(maj♭9)","-Δ♭9"],
+                    "Minor": ["m♭9","min♭9","-♭9"],
+                    "Half Diminished": ["ø♭9","m♭9(♭5)","min♭9(♭5)","-♭9(♭5)","m♭9(-5)"],
+                    "Diminished": ["dim♭9","o♭9"],
+                    "Augmented": ["aug♭9","+♭9","♭9(♯5)","♭9(+5)"]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": ["(add♯9)","M(add♯9)","maj(add♯9)","Δ(add♯9)"],
+                    "Minor": ["m(add♯9)","min(add♯9)","-(add♯9)"],
+                    "Augmented": ["aug(add♯9)","+(add♯9)"],
+                    "Diminished": ["dim(add♯9)","o(add♯9)"],
+                    "Suspended Second": ["sus2(add♯9)"],
+                    "Suspended Fourth": ["sus(add♯9)","sus4(add♯9)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6/♯9","M6/♯9","maj6/♯9","Δ6/♯9"],
+                    "Minor Sixth": ["m6/♯9","min6/♯9","-6/♯9"]
+                },
+                "Sevenths": {
+                    "Major": ["M♯9","maj♯9","Δ♯9"],
+                    "Dominant": ["♯9","dom♯9"],
+                    "Dominant Sharp Fifth": ["aug♯9","+♯9","♯9(♯5)","♯9(+5)"],
+                    "Dominant Flat Fifth": ["♯9(♭5)","♯9(-5)","dom♯9(♭5)"],
+                    "Dominant Suspended Second": ["♯9sus2"],
+                    "Dominant Suspended Fourth": ["♯9sus","♯9sus4"],
+                    "Minor Major": ["m(M♯9)","min(maj♯9)","-Δ♯9"],
+                    "Minor": ["m♯9","min♯9","-♯9"],
+                    "Half Diminished": ["ø♯9","m♯9(♭5)","min♯9(♭5)","-♯9(♭5)","m♯9(-5)"],
+                    "Diminished": ["dim♯9","o♯9"],
+                    "Augmented": ["aug♯9","+♯9","♯9(♯5)","♯9(+5)"]
+                }
+            }
+        },
+        "Elevenths": {
+            "Eleventh": {
+                "Triads": {
+                    "Major": ["(add11)","M(add11)","maj(add11)","Δ(add11)"],
+                    "Minor": ["m(add11)","min(add11)","-(add11)"],
+                    "Augmented": ["aug(add11)","+(add11)"],
+                    "Diminished": ["dim(add11)","o(add11)"],
+                    "Suspended Second": ["sus2(add11)"],
+                    "Suspended Fourth": ["sus(add11)","sus4(add11)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6(add11)","M6(add11)","maj6(add11)","Δ6(add11)"],
+                    "Minor Sixth": ["m6(add11)","min6(add11)","-6(add11)"]
+                },
+                "Sevenths": {
+                    "Major": ["M7(add11)","maj7(add11)","Δ7(add11)"],
+                    "Dominant": ["7(add11)","dom7(add11)"],
+                    "Dominant Sharp Fifth": ["aug7(add11)","+7(add11)","7(♯5)(add11)","7(+5)(add11)"],
+                    "Dominant Flat Fifth": ["7(♭5)(add11)","7(-5)(add11)","dom7(♭5)(add11)"],
+                    "Dominant Suspended Second": ["7sus2(add11)"],
+                    "Dominant Suspended Fourth": ["7sus(add11)","7sus4(add11)"],
+                    "Minor Major": ["m(M7)(add11)","min(maj7)(add11)","-Δ7(add11)"],
+                    "Minor": ["m7(add11)","min7(add11)","-7(add11)"],
+                    "Half Diminished": ["ø7(add11)","m7(♭5)(add11)","min7(♭5)(add11)","-7(♭5)(add11)","m7(-5)(add11)"],
+                    "Diminished": ["dim7(add11)","o7(add11)"],
+                    "Augmented": ["aug7(add11)","+7(add11)","7(♯5)(add11)","7(+5)(add11)"]
+                },
+                "Ninths": {
+                    "Ninth": {
+                        "Triads": {
+                            "Major": ["(add9,11)","M(add9,11)","maj(add9,11)","Δ(add9,11)"],
+                            "Minor": ["m(add9,11)","min(add9,11)","-(add9,11)"],
+                            "Augmented": ["aug(add9,11)","+(add9,11)"],
+                            "Diminished": ["dim(add9,11)","o(add9,11)"],
+                            "Suspended Second": ["sus2(add9,11)"],
+                            "Suspended Fourth": ["sus(add9,11)","sus4(add9,11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/11","M6/11","maj6/11","Δ6/11"],
+                            "Minor Sixth": ["m6/11","min6/11","-6/11"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M11","maj11","Δ11"],
+                            "Dominant": ["11","dom11"],
+                            "Dominant Sharp Fifth": ["aug11","+11","11(♯5)","11(+5)"],
+                            "Dominant Flat Fifth": ["11(♭5)","11(-5)","dom11(♭5)"],
+                            "Dominant Suspended Second": ["11sus2"],
+                            "Dominant Suspended Fourth": ["11sus","11sus4"],
+                            "Minor Major": ["m(M11)","min(maj11)","-Δ11"],
+                            "Minor": ["m11","min11","-11"],
+                            "Half Diminished": ["ø11","m11(♭5)","min11(♭5)","-11(♭5)","m11(-5)"],
+                            "Diminished": ["dim11","o11"],
+                            "Augmented": ["aug11","+11","11(♯5)","11(+5)"]
+                        }
+                    },
+                    "Flat Ninth": {
+                        "Triads": {
+                            "Major": ["(add♭9,11)","M(add♭9,11)","maj(add♭9,11)","Δ(add♭9,11)"],
+                            "Minor": ["m(add♭9,11)","min(add♭9,11)","-(add♭9,11)"],
+                            "Augmented": ["aug(add♭9,11)","+(add♭9,11)"],
+                            "Diminished": ["dim(add♭9,11)","o(add♭9,11)"],
+                            "Suspended Second": ["sus2(add♭9,11)"],
+                            "Suspended Fourth": ["sus(add♭9,11)","sus4(add♭9,11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♭9(add11)","M6/♭9(add11)","maj6/♭9(add11)","Δ6/♭9(add11)"],
+                            "Minor Sixth": ["m6/♭9(add11)","min6/♭9(add11)","-6/♭9(add11)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M11(♭9)","maj11(♭9)","Δ11(♭9)"],
+                            "Dominant": ["11(♭9)","dom11(♭9)"],
+                            "Dominant Sharp Fifth": ["aug11(♭9)","+11(♭9)","11(♭9)(♯5)","11(♭9)(+5)"],
+                            "Dominant Flat Fifth": ["11(♭9)(♭5)","11(♭9)(-5)","dom11(♭9)(♭5)"],
+                            "Dominant Suspended Second": ["11(♭9)sus2"],
+                            "Dominant Suspended Fourth": ["11(♭9)sus","11(♭9)sus4"],
+                            "Minor Major": ["m(M11(♭9))","min(maj11(♭9))","-Δ11(♭9)"],
+                            "Minor": ["m11(♭9)","min11(♭9)","-11(♭9)"],
+                            "Half Diminished": ["ø11(♭9)","m11(♭9)(♭5)","min11(♭9)(♭5)","-11(♭9)(♭5)","m11(♭9)(-5)"],
+                            "Diminished": ["dim11(♭9)","o11(♭9)"],
+                            "Augmented": ["aug11(♭9)","+11(♭9)","11(♭9)(♯5)","11(♭9)(+5)"]
+                        }
+                    },
+                    "Sharp Ninth": {
+                        "Triads": {
+                            "Major": ["(add♯9,11)","M(add♯9,11)","maj(add♯9,11)","Δ(add♯9,11)"],
+                            "Minor": ["m(add♯9,11)","min(add♯9,11)","-(add♯9,11)"],
+                            "Augmented": ["aug(add♯9,11)","+(add♯9,11)"],
+                            "Diminished": ["dim(add♯9,11)","o(add♯9,11)"],
+                            "Suspended Second": ["sus2(add♯9,11)"],
+                            "Suspended Fourth": ["sus(add♯9,11)","sus4(add♯9,11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯9(add11)","M6/♯9(add11)","maj6/♯9(add11)","Δ6/♯9(add11)"],
+                            "Minor Sixth": ["m6/♯9(add11)","min6/♯9(add11)","-6/♯9(add11)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M11(♯9)","maj11(♯9)","Δ11(♯9)"],
+                            "Dominant": ["11(♯9)","dom11(♯9)"],
+                            "Dominant Sharp Fifth": ["aug11(♯9)","+11(♯9)","11(♯9)(♯5)","11(♯9)(+5)"],
+                            "Dominant Flat Fifth": ["11(♯9)(♭5)","11(♯9)(-5)","dom11(♯9)(♭5)"],
+                            "Dominant Suspended Second": ["11(♯9)sus2"],
+                            "Dominant Suspended Fourth": ["11(♯9)sus","11(♯9)sus4"],
+                            "Minor Major": ["m(M11(♯9))","min(maj11(♯9))","-Δ11(♯9)"],
+                            "Minor": ["m11(♯9)","min11(♯9)","-11(♯9)"],
+                            "Half Diminished": ["ø11(♯9)","m11(♯9)(♭5)","min11(♯9)(♭5)","-11(♯9)(♭5)","m11(♯9)(-5)"],
+                            "Diminished": ["dim11(♯9)","o11(♯9)"],
+                            "Augmented": ["aug11(♯9)","+11(♯9)","11(♯9)(♯5)","11(♯9)(+5)"]
+                        }
+                    }
+                }
+            },
+            "Sharp Eleventh": {
+                "Triads": {
+                    "Major": ["(add♯11)","M(add♯11)","maj(add♯11)","Δ(add♯11)"],
+                    "Minor": ["m(add♯11)","min(add♯11)","-(add♯11)"],
+                    "Augmented": ["aug(add♯11)","+(add♯11)"],
+                    "Diminished": ["dim(add♯11)","o(add♯11)"],
+                    "Suspended Second": ["sus2(add♯11)"],
+                    "Suspended Fourth": ["sus(add♯11)","sus4(add♯11)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6(add♯11)","M6(add♯11)","maj6(add♯11)","Δ6(add♯11)"],
+                    "Minor Sixth": ["m6(add♯11)","min6(add♯11)","-6(add♯11)"]
+                },
+                "Sevenths": {
+                    "Major": ["M7(add♯11)","maj7(add♯11)","Δ7(add♯11)"],
+                    "Dominant": ["7(add♯11)","dom7(add♯11)"],
+                    "Dominant Sharp Fifth": ["aug7(add♯11)","+7(add♯11)","7(♯5)(add♯11)","7(+5)(add♯11)"],
+                    "Dominant Flat Fifth": ["7(♭5)(add♯11)","7(-5)(add♯11)","dom7(♭5)(add♯11)"],
+                    "Dominant Suspended Second": ["7sus2(add♯11)"],
+                    "Dominant Suspended Fourth": ["7sus(add♯11)","7sus4(add♯11)"],
+                    "Minor Major": ["m(M7)(add♯11)","min(maj7)(add♯11)","-Δ7(add♯11)"],
+                    "Minor": ["m7(add♯11)","min7(add♯11)","-7(add♯11)"],
+                    "Half Diminished": ["ø7(add♯11)","m7(♭5)(add♯11)","min7(♭5)(add♯11)","-7(♭5)(add♯11)","m7(-5)(add♯11)"],
+                    "Diminished": ["dim7(add♯11)","o7(add♯11)"],
+                    "Augmented": ["aug7(add♯11)","+7(add♯11)","7(♯5)(add♯11)","7(+5)(add♯11)"]
+                },
+                "Ninths": {
+                    "Ninth": {
+                        "Triads": {
+                            "Major": ["(add9,♯11)","M(add9,♯11)","maj(add9,♯11)","Δ(add9,♯11)"],
+                            "Minor": ["m(add9,♯11)","min(add9,♯11)","-(add9,♯11)"],
+                            "Augmented": ["aug(add9,♯11)","+(add9,♯11)"],
+                            "Diminished": ["dim(add9,♯11)","o(add9,♯11)"],
+                            "Suspended Second": ["sus2(add9,♯11)"],
+                            "Suspended Fourth": ["sus(add9,♯11)","sus4(add9,♯11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯11","M6/♯11","maj6/♯11","Δ6/♯11"],
+                            "Minor Sixth": ["m6/♯11","min6/♯11","-6/♯11"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯11","maj♯11","Δ♯11"],
+                            "Dominant": ["♯11","dom♯11"],
+                            "Dominant Sharp Fifth": ["aug♯11","+♯11","♯11(♯5)","♯11(+5)"],
+                            "Dominant Flat Fifth": ["♯11(♭5)","♯11(-5)","dom♯11(♭5)"],
+                            "Dominant Suspended Second": ["♯11sus2"],
+                            "Dominant Suspended Fourth": ["♯11sus","♯11sus4"],
+                            "Minor Major": ["m(M♯11)","min(maj♯11)","-Δ♯11"],
+                            "Minor": ["m♯11","min♯11","-♯11"],
+                            "Half Diminished": ["ø♯11","m♯11(♭5)","min♯11(♭5)","-♯11(♭5)","m♯11(-5)"],
+                            "Diminished": ["dim♯11","o♯11"],
+                            "Augmented": ["aug♯11","+♯11","♯11(♯5)","♯11(+5)"]
+                        }
+                    },
+                    "Flat Ninth": {
+                        "Triads": {
+                            "Major": ["(add♭9,♯11)","M(add♭9,♯11)","maj(add♭9,♯11)","Δ(add♭9,♯11)"],
+                            "Minor": ["m(add♭9,♯11)","min(add♭9,♯11)","-(add♭9,♯11)"],
+                            "Augmented": ["aug(add♭9,♯11)","+(add♭9,♯11)"],
+                            "Diminished": ["dim(add♭9,♯11)","o(add♭9,♯11)"],
+                            "Suspended Second": ["sus2(add♭9,♯11)"],
+                            "Suspended Fourth": ["sus(add♭9,♯11)","sus4(add♭9,♯11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♭9(add♯11)","M6/♭9(add♯11)","maj6/♭9(add♯11)","Δ6/♭9(add♯11)"],
+                            "Minor Sixth": ["m6/♭9(add♯11)","min6/♭9(add♯11)","-6/♭9(add♯11)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯11(♭9)","maj♯11(♭9)","Δ♯11(♭9)"],
+                            "Dominant": ["♯11(♭9)","dom♯11(♭9)"],
+                            "Dominant Sharp Fifth": ["aug♯11(♭9)","+♯11(♭9)","♯11(♭9)(♯5)","♯11(♭9)(+5)"],
+                            "Dominant Flat Fifth": ["♯11(♭9)(♭5)","♯11(♭9)(-5)","dom♯11(♭9)(♭5)"],
+                            "Dominant Suspended Second": ["♯11(♭9)sus2"],
+                            "Dominant Suspended Fourth": ["♯11(♭9)sus","♯11(♭9)sus4"],
+                            "Minor Major": ["m(M♯11(♭9))","min(maj♯11(♭9))","-Δ♯11(♭9)"],
+                            "Minor": ["m♯11(♭9)","min♯11(♭9)","-♯11(♭9)"],
+                            "Half Diminished": ["ø♯11(♭9)","m♯11(♭9)(♭5)","min♯11(♭9)(♭5)","-♯11(♭9)(♭5)","m♯11(♭9)(-5)"],
+                            "Diminished": ["dim♯11(♭9)","o♯11(♭9)"],
+                            "Augmented": ["aug♯11(♭9)","+♯11(♭9)","♯11(♭9)(♯5)","♯11(♭9)(+5)"]
+                        }
+                    },
+                    "Sharp Ninth": {
+                        "Triads": {
+                            "Major": ["(add♯9,♯11)","M(add♯9,♯11)","maj(add♯9,♯11)","Δ(add♯9,♯11)"],
+                            "Minor": ["m(add♯9,♯11)","min(add♯9,♯11)","-(add♯9,♯11)"],
+                            "Augmented": ["aug(add♯9,♯11)","+(add♯9,♯11)"],
+                            "Diminished": ["dim(add♯9,♯11)","o(add♯9,♯11)"],
+                            "Suspended Second": ["sus2(add♯9,♯11)"],
+                            "Suspended Fourth": ["sus(add♯9,♯11)","sus4(add♯9,♯11)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯9(add♯11)","M6/♯9(add♯11)","maj6/♯9(add♯11)","Δ6/♯9(add♯11)"],
+                            "Minor Sixth": ["m6/♯9(add♯11)","min6/♯9(add♯11)","-6/♯9(add♯11)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯11(♯9)","maj♯11(♯9)","Δ♯11(♯9)"],
+                            "Dominant": ["♯11(♯9)","dom♯11(♯9)"],
+                            "Dominant Sharp Fifth": ["aug♯11(♯9)","+♯11(♯9)","♯11(♯9)(♯5)","♯11(♯9)(+5)"],
+                            "Dominant Flat Fifth": ["♯11(♯9)(♭5)","♯11(♯9)(-5)","dom♯11(♯9)(♭5)"],
+                            "Dominant Suspended Second": ["♯11(♯9)sus2"],
+                            "Dominant Suspended Fourth": ["♯11(♯9)sus","♯11(♯9)sus4"],
+                            "Minor Major": ["m(M♯11(♯9))","min(maj♯11(♯9))","-Δ♯11(♯9)"],
+                            "Minor": ["m♯11(♯9)","min♯11(♯9)","-♯11(♯9)"],
+                            "Half Diminished": ["ø♯11(♯9)","m♯11(♯9)(♭5)","min♯11(♯9)(♭5)","-♯11(♯9)(♭5)","m♯11(♯9)(-5)"],
+                            "Diminished": ["dim♯11(♯9)","o♯11(♯9)"],
+                            "Augmented": ["aug♯11(♯9)","+♯11(♯9)","♯11(♯9)(♯5)","♯11(♯9)(+5)"]
+                        }
+                    }
+                }
+            }
+        },
+        "Thirteenths": {
+            "Thirteenth": {
+                "Triads": {
+                    "Major": ["(add13)","M(add13)","maj(add13)","Δ(add13)"],
+                    "Minor": ["m(add13)","min(add13)","-(add13)"],
+                    "Augmented": ["aug(add13)","+(add13)"],
+                    "Diminished": ["dim(add13)","o(add13)"],
+                    "Suspended Second": ["sus2(add13)"],
+                    "Suspended Fourth": ["sus(add13)","sus4(add13)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6(add13)","M6(add13)","maj6(add13)","Δ6(add13)"],
+                    "Minor Sixth": ["m6(add13)","min6(add13)","-6(add13)"]
+                },
+                "Sevenths": {
+                    "Major": ["M7(add13)","maj7(add13)","Δ7(add13)"],
+                    "Dominant": ["7(add13)","dom7(add13)"],
+                    "Dominant Sharp Fifth": ["aug7(add13)","+7(add13)","7(add13)(♯5)","7(add13)(+5)"],
+                    "Dominant Flat Fifth": ["7(add13)(♭5)","7(add13)(-5)","dom7(add13)(♭5)"],
+                    "Dominant Suspended Second": ["7(add13)sus2"],
+                    "Dominant Suspended Fourth": ["7(add13)sus","7(add13)sus4"],
+                    "Minor Major": ["m(M7(add13))","min(maj7(add13))","-Δ7(add13)"],
+                    "Minor": ["m7(add13)","min7(add13)","-7(add13)"],
+                    "Half Diminished": ["ø7(add13)","m7(add13)(♭5)","min7(add13)(♭5)","-7(add13)(♭5)","m7(add13)(-5)"],
+                    "Diminished": ["dim7(add13)","o7(add13)"],
+                    "Augmented": ["aug7(add13)","+7(add13)","7(add13)(♯5)","7(add13)(+5)"]
+                },
+                "Ninths": {
+                    "Ninth":{
+                        "Triads": {
+                            "Major": ["(add9,13)","M(add9,13)","maj(add9,13)","Δ(add9,13)"],
+                            "Minor": ["m(add9,13)","min(add9,13)","-(add9,13)"],
+                            "Augmented": ["aug(add9,13)","+(add9,13)"],
+                            "Diminished": ["dim(add9,13)","o(add9,13)"],
+                            "Suspended Second": ["sus2(add9,13)"],
+                            "Suspended Fourth": ["sus(add9,13)","sus4(add9,13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/9(add13)","M6/9(add13)","maj6/9(add13)","Δ6/9(add13)"],
+                            "Minor Sixth": ["m6/9(add13)","min6/9(add13)","-6/9(add13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M9(add13)","maj9(add13)","Δ9(add13)"],
+                            "Dominant": ["9(add13)","dom9(add13)"],
+                            "Dominant Sharp Fifth": ["aug9(add13)","+9(add13)","9(add13)(♯5)","9(add13)(+5)"],
+                            "Dominant Flat Fifth": ["9(add13)(♭5)","9(add13)(-5)","dom9(add13)(♭5)"],
+                            "Dominant Suspended Second": ["9(add13)sus2"],
+                            "Dominant Suspended Fourth": ["9(add13)sus","9(add13)sus4"],
+                            "Minor Major": ["m(M9(add13))","min(maj9(add13))","-Δ9(add13)"],
+                            "Minor": ["m9(add13)","min9(add13)","-9(add13)"],
+                            "Half Diminished": ["ø9(add13)","m9(add13)(♭5)","min9(add13)(♭5)","-9(add13)(♭5)","m9(add13)(-5)"],
+                            "Diminished": ["dim9(add13)","o9(add13)"],
+                            "Augmented": ["aug9(add13)","+9(add13)","9(add13)(♯5)","9(add13)(+5)"]
+                        }
+                    },
+                    "Flat Ninth": {
+                        "Triads": {
+                            "Major": ["(add♭9,13)","M(add♭9,13)","maj(add♭9,13)","Δ(add♭9,13)"],
+                            "Minor": ["m(add♭9,13)","min(add♭9,13)","-(add♭9,13)"],
+                            "Augmented": ["aug(add♭9,13)","+(add♭9,13)"],
+                            "Diminished": ["dim(add♭9,13)","o(add♭9,13)"],
+                            "Suspended Second": ["sus2(add♭9,13)"],
+                            "Suspended Fourth": ["sus(add♭9,13)","sus4(add♭9,13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♭9(add13)","M6/♭9(add13)","maj6/♭9(add13)","Δ6/♭9(add13)"],
+                            "Minor Sixth": ["m6/♭9(add13)","min6/♭9(add13)","-6/♭9(add13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♭9(add13)","maj♭9(add13)","Δ♭9(add13)"],
+                            "Dominant": ["♭9(add13)","dom♭9(add13)"],
+                            "Dominant Sharp Fifth": ["aug♭9(add13)","+♭9(add13)","♭9(add13)(♯5)","♭9(add13)(+5)"],
+                            "Dominant Flat Fifth": ["♭9(add13)(♭5)","♭9(add13)(-5)","dom♭9(add13)(♭5)"],
+                            "Dominant Suspended Second": ["♭9(add13)sus2"],
+                            "Dominant Suspended Fourth": ["♭9(add13)sus","♭9(add13)sus4"],
+                            "Minor Major": ["m(M♭9(add13))","min(maj♭9(add13))","-Δ♭9(add13)"],
+                            "Minor": ["m♭9(add13)","min♭9(add13)","-♭9(add13)"],
+                            "Half Diminished": ["ø♭9(add13)","m♭9(add13)(♭5)","min♭9(add13)(♭5)","-♭9(add13)(♭5)","m♭9(add13)(-5)"],
+                            "Diminished": ["dim♭9(add13)","o♭9(add13)"],
+                            "Augmented": ["aug♭9(add13)","+♭9(add13)","♭9(add13)(♯5)","♭9(add13)(+5)"]
+                        }
+                    },
+                    "Sharp Ninth": {
+                        "Triads": {
+                            "Major": ["(add♯9,13)","M(add♯9,13)","maj(add♯9,13)","Δ(add♯9,13)"],
+                            "Minor": ["m(add♯9,13)","min(add♯9,13)","-(add♯9,13)"],
+                            "Augmented": ["aug(add♯9,13)","+(add♯9,13)"],
+                            "Diminished": ["dim(add♯9,13)","o(add♯9,13)"],
+                            "Suspended Second": ["sus2(add♯9,13)"],
+                            "Suspended Fourth": ["sus(add♯9,13)","sus4(add♯9,13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯9(add13)","M6/♯9(add13)","maj6/♯9(add13)","Δ6/♯9(add13)"],
+                            "Minor Sixth": ["m6/♯9(add13)","min6/♯9(add13)","-6/♯9(add13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯9(add13)","maj♯9(add13)","Δ♯9(add13)"],
+                            "Dominant": ["♯9(add13)","dom♯9(add13)"],
+                            "Dominant Sharp Fifth": ["aug♯9(add13)","+♯9(add13)","♯9(add13)(♯5)","♯9(add13)(+5)"],
+                            "Dominant Flat Fifth": ["♯9(add13)(♭5)","♯9(add13)(-5)","dom♯9(add13)(♭5)"],
+                            "Dominant Suspended Second": ["♯9(add13)sus2"],
+                            "Dominant Suspended Fourth": ["♯9(add13)sus","♯9(add13)sus4"],
+                            "Minor Major": ["m(M♯9(add13))","min(maj♯9(add13))","-Δ♯9(add13)"],
+                            "Minor": ["m♯9(add13)","min♯9(add13)","-♯9(add13)"],
+                            "Half Diminished": ["ø♯9(add13)","m♯9(add13)(♭5)","min♯9(add13)(♭5)","-♯9(add13)(♭5)","m♯9(add13)(-5)"],
+                            "Diminished": ["dim♯9(add13)","o♯9(add13)"],
+                            "Augmented": ["aug♯9(add13)","+♯9(add13)","♯9(add13)(♯5)","♯9(add13)(+5)"]
+                        }
+                    }
+                },
+                "Elevenths": {
+                    "Eleventh": {
+                        "Triads": {
+                            "Major": ["(add11,13)","M(add11,13)","maj(add11,13)","Δ(add11,13)"],
+                            "Minor": ["m(add11,13)","min(add11,13)","-(add11,13)"],
+                            "Augmented": ["aug(add11,13)","+(add11,13)"],
+                            "Diminished": ["dim(add11,13)","o(add11,13)"],
+                            "Suspended Second": ["sus2(add11,13)"],
+                            "Suspended Fourth": ["sus(add11,13)","sus4(add11,13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add11,13)","M6(add11,13)","maj6(add11,13)","Δ6(add11,13)"],
+                            "Minor Sixth": ["m6(add11,13)","min6(add11,13)","-6(add11,13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add11,13)","maj7(add11,13)","Δ7(add11,13)"],
+                            "Dominant": ["7(add11,13)","dom7(add11,13)"],
+                            "Dominant Sharp Fifth": ["aug7(add11,13)","+7(add11,13)","7(♯5)(add11,13)","7(+5)(add11,13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add11,13)","7(-5)(add11,13)","dom7(♭5)(add11,13)"],
+                            "Dominant Suspended Second": ["7sus2(add11,13)"],
+                            "Dominant Suspended Fourth": ["7sus(add11,13)","7sus4(add11,13)"],
+                            "Minor Major": ["m(M7)(add11,13)","min(maj7)(add11,13)","-Δ7(add11,13)"],
+                            "Minor": ["m7(add11,13)","min7(add11,13)","-7(add11,13)"],
+                            "Half Diminished": ["ø7(add11,13)","m7(♭5)(add11,13)","min7(♭5)(add11,13)","-7(♭5)(add11,13)","m7(-5)(add11,13)"],
+                            "Diminished": ["dim7(add11,13)","o7(add11,13)"],
+                            "Augmented": ["aug7(add11,13)","+7(add11,13)","7(♯5)(add11,13)","7(+5)(add11,13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,11,13)","M(add9,11,13)","maj(add9,11,13)","Δ(add9,11,13)"],
+                                    "Minor": ["m(add9,11,13)","min(add9,11,13)","-(add9,11,13)"],
+                                    "Augmented": ["aug(add9,11,13)","+(add9,11,13)"],
+                                    "Diminished": ["dim(add9,11,13)","o(add9,11,13)"],
+                                    "Suspended Second": ["sus2(add9,11,13)"],
+                                    "Suspended Fourth": ["sus(add9,11,13)","sus4(add9,11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/11(add13)","M6/11(add13)","maj6/11(add13)","Δ6/11(add13)"],
+                                    "Minor Sixth": ["m6/11(add13)","min6/11(add13)","-6/11(add13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M13","maj13","Δ13"],
+                                    "Dominant": ["13","dom13"],
+                                    "Dominant Sharp Fifth": ["aug13","+13","13(♯5)","13(+5)"],
+                                    "Dominant Flat Fifth": ["13(♭5)","13(-5)","dom13(♭5)"],
+                                    "Dominant Suspended Second": ["13sus2"],
+                                    "Dominant Suspended Fourth": ["13sus","13sus4"],
+                                    "Minor Major": ["m(M13)","min(maj13)","-Δ13"],
+                                    "Minor": ["m13","min13","-13"],
+                                    "Half Diminished": ["ø13","m13(♭5)","min13(♭5)","-13(♭5)","m13(-5)"],
+                                    "Diminished": ["dim13","o13"],
+                                    "Augmented": ["aug13","+13","13(♯5)","13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,11,13)","M(add♭9,11,13)","maj(add♭9,11,13)","Δ(add♭9,11,13)"],
+                                    "Minor": ["m(add♭9,11,13)","min(add♭9,11,13)","-(add♭9,11,13)"],
+                                    "Augmented": ["aug(add♭9,11,13)","+(add♭9,11,13)"],
+                                    "Diminished": ["dim(add♭9,11,13)","o(add♭9,11,13)"],
+                                    "Suspended Second": ["sus2(add♭9,11,13)"],
+                                    "Suspended Fourth": ["sus(add♭9,11,13)","sus4(add♭9,11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add11,13)","M6/♭9(add11,13)","maj6/♭9(add11,13)","Δ6/♭9(add11,13)"],
+                                    "Minor Sixth": ["m6/♭9(add11,13)","min6/♭9(add11,13)","-6/♭9(add11,13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M13(♭9)","maj13(♭9)","Δ13(♭9)"],
+                                    "Dominant": ["13(♭9)","dom13(♭9)"],
+                                    "Dominant Sharp Fifth": ["aug13(♭9)","+13(♭9)","13(♭9)(♯5)","13(♭9)(+5)"],
+                                    "Dominant Flat Fifth": ["13(♭9)(♭5)","13(♭9)(-5)","dom13(♭9)(♭5)"],
+                                    "Dominant Suspended Second": ["13(♭9)sus2"],
+                                    "Dominant Suspended Fourth": ["13(♭9)sus","13(♭9)sus4"],
+                                    "Minor Major": ["m(M13(♭9))","min(maj13(♭9))","-Δ13(♭9)"],
+                                    "Minor": ["m13(♭9)","min13(♭9)","-13(♭9)"],
+                                    "Half Diminished": ["ø13(♭9)","m13(♭9)(♭5)","min13(♭9)(♭5)","-13(♭9)(♭5)","m13(♭9)(-5)"],
+                                    "Diminished": ["dim13(♭9)","o13(♭9)"],
+                                    "Augmented": ["aug13(♭9)","+13(♭9)","13(♭9)(♯5)","13(♭9)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,11,13)","M(add♯9,11,13)","maj(add♯9,11,13)","Δ(add♯9,11,13)"],
+                                    "Minor": ["m(add♯9,11,13)","min(add♯9,11,13)","-(add♯9,11,13)"],
+                                    "Augmented": ["aug(add♯9,11,13)","+(add♯9,11,13)"],
+                                    "Diminished": ["dim(add♯9,11,13)","o(add♯9,11,13)"],
+                                    "Suspended Second": ["sus2(add♯9,11,13)"],
+                                    "Suspended Fourth": ["sus(add♯9,11,13)","sus4(add♯9,11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add11,13)","M6/♯9(add11,13)","maj6/♯9(add11,13)","Δ6/♯9(add11,13)"],
+                                    "Minor Sixth": ["m6/♯9(add11,13)","min6/♯9(add11,13)","-6/♯9(add11,13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M13(♯9)","maj13(♯9)","Δ13(♯9)"],
+                                    "Dominant": ["13(♯9)","dom13(♯9)"],
+                                    "Dominant Sharp Fifth": ["aug13(♯9)","+13(♯9)","13(♯9)(♯5)","13(♯9)(+5)"],
+                                    "Dominant Flat Fifth": ["13(♯9)(♭5)","13(♯9)(-5)","dom13(♯9)(♭5)"],
+                                    "Dominant Suspended Second": ["13(♯9)sus2"],
+                                    "Dominant Suspended Fourth": ["13(♯9)sus","13(♯9)sus4"],
+                                    "Minor Major": ["m(M13(♯9))","min(maj13(♯9))","-Δ13(♯9)"],
+                                    "Minor": ["m13(♯9)","min13(♯9)","-13(♯9)"],
+                                    "Half Diminished": ["ø13(♯9)","m13(♯9)(♭5)","min13(♯9)(♭5)","-13(♯9)(♭5)","m13(♯9)(-5)"],
+                                    "Diminished": ["dim13(♯9)","o13(♯9)"],
+                                    "Augmented": ["aug13(♯9)","+13(♯9)","13(♯9)(♯5)","13(♯9)(+5)"]
+                                }
+                            }
+                        }
+                    },
+                    "Sharp Eleventh": {
+                        "Triads": {
+                            "Major": ["(add♯11,13)","M(add♯11,13)","maj(add♯11,13)","Δ(add♯11,13)"],
+                            "Minor": ["m(add♯11,13)","min(add♯11,13)","-(add♯11,13)"],
+                            "Augmented": ["aug(add♯11,13)","+(add♯11,13)"],
+                            "Diminished": ["dim(add♯11,13)","o(add♯11,13)"],
+                            "Suspended Second": ["sus2(add♯11,13)"],
+                            "Suspended Fourth": ["sus(add♯11,13)","sus4(add♯11,13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add♯11,13)","M6(add♯11,13)","maj6(add♯11,13)","Δ6(add♯11,13)"],
+                            "Minor Sixth": ["m6(add♯11,13)","min6(add♯11,13)","-6(add♯11,13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add♯11,13)","maj7(add♯11,13)","Δ7(add♯11,13)"],
+                            "Dominant": ["7(add♯11,13)","dom7(add♯11,13)"],
+                            "Dominant Sharp Fifth": ["aug7(add♯11,13)","+7(add♯11,13)","7(♯5)(add♯11,13)","7(+5)(add♯11,13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add♯11,13)","7(-5)(add♯11,13)","dom7(♭5)(add♯11,13)"],
+                            "Dominant Suspended Second": ["7sus2(add♯11,13)"],
+                            "Dominant Suspended Fourth": ["7sus(add♯11,13)","7sus4(add♯11,13)"],
+                            "Minor Major": ["m(M7)(add♯11,13)","min(maj7)(add♯11,13)","-Δ7(add♯11,13)"],
+                            "Minor": ["m7(add♯11,13)","min7(add♯11,13)","-7(add♯11,13)"],
+                            "Half Diminished": ["ø7(add♯11,13)","m7(♭5)(add♯11,13)","min7(♭5)(add♯11,13)","-7(♭5)(add♯11,13)","m7(-5)(add♯11,13)"],
+                            "Diminished": ["dim7(add♯11,13)","o7(add♯11,13)"],
+                            "Augmented": ["aug7(add♯11,13)","+7(add♯11,13)","7(♯5)(add♯11,13)","7(+5)(add♯11,13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,♯11,13)","M(add9,♯11,13)","maj(add9,♯11,13)","Δ(add9,♯11,13)"],
+                                    "Minor": ["m(add9,♯11,13)","min(add9,♯11,13)","-(add9,♯11,13)"],
+                                    "Augmented": ["aug(add9,♯11,13)","+(add9,♯11,13)"],
+                                    "Diminished": ["dim(add9,♯11,13)","o(add9,♯11,13)"],
+                                    "Suspended Second": ["sus2(add9,♯11,13)"],
+                                    "Suspended Fourth": ["sus(add9,♯11,13)","sus4(add9,♯11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯11(add13)","M6/♯11(add13)","maj6/♯11(add13)","Δ6/♯11(add13)"],
+                                    "Minor Sixth": ["m6/♯11(add13)","min6/♯11(add13)","-6/♯11(add13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13","maj♯13","Δ♯13"],
+                                    "Dominant": ["♯13","dom♯13"],
+                                    "Dominant Sharp Fifth": ["aug♯13","+♯13","♯13(♯5)","♯13(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♭5)","♯13(-5)","dom♯13(♭5)"],
+                                    "Dominant Suspended Second": ["♯13sus2"],
+                                    "Dominant Suspended Fourth": ["♯13sus","♯13sus4"],
+                                    "Minor Major": ["m(M♯13)","min(maj♯13)","-Δ♯13"],
+                                    "Minor": ["m♯13","min♯13","-♯13"],
+                                    "Half Diminished": ["ø♯13","m♯13(♭5)","min♯13(♭5)","-♯13(♭5)","m♯13(-5)"],
+                                    "Diminished": ["dim♯13","o♯13"],
+                                    "Augmented": ["aug♯13","+♯13","♯13(♯5)","♯13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,♯11,13)","M(add♭9,♯11,13)","maj(add♭9,♯11,13)","Δ(add♭9,♯11,13)"],
+                                    "Minor": ["m(add♭9,♯11,13)","min(add♭9,♯11,13)","-(add♭9,♯11,13)"],
+                                    "Augmented": ["aug(add♭9,♯11,13)","+(add♭9,♯11,13)"],
+                                    "Diminished": ["dim(add♭9,♯11,13)","o(add♭9,♯11,13)"],
+                                    "Suspended Second": ["sus2(add♭9,♯11,13)"],
+                                    "Suspended Fourth": ["sus(add♭9,♯11,13)","sus4(add♭9,♯11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add♯11,13)","M6/♭9(add♯11,13)","maj6/♭9(add♯11,13)","Δ6/♭9(add♯11,13)"],
+                                    "Minor Sixth": ["m6/♭9(add♯11,13)","min6/♭9(add♯11,13)","-6/♭9(add♯11,13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M13(♭9,♯11)","maj13(♭9,♯11)","Δ13(♭9,♯11)"],
+                                    "Dominant": ["13(♭9,♯11)","dom13(♭9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug13(♭9,♯11)","+13(♭9,♯11)","13(♭9,♯11)(♯5)","13(♭9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["13(♭9,♯11)(♭5)","13(♭9,♯11)(-5)","dom13(♭9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["13(♭9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["13(♭9,♯11)sus","13(♭9,♯11)sus4"],
+                                    "Minor Major": ["m(M13(♭9,♯11))","min(maj13(♭9,♯11))","-Δ13(♭9,♯11)"],
+                                    "Minor": ["m13(♭9,♯11)","min13(♭9,♯11)","-13(♭9,♯11)"],
+                                    "Half Diminished": ["ø13(♭9,♯11)","m13(♭9,♯11)(♭5)","min13(♭9,♯11)(♭5)","-13(♭9,♯11)(♭5)","m13(♭9,♯11)(-5)"],
+                                    "Diminished": ["dim13(♭9,♯11)","o13(♭9,♯11)"],
+                                    "Augmented": ["aug13(♭9,♯11)","+13(♭9,♯11)","13(♭9,♯11)(♯5)","13(♭9,♯11)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,♯11,13)","M(add♯9,♯11,13)","maj(add♯9,♯11,13)","Δ(add♯9,♯11,13)"],
+                                    "Minor": ["m(add♯9,♯11,13)","min(add♯9,♯11,13)","-(add♯9,♯11,13)"],
+                                    "Augmented": ["aug(add♯9,♯11,13)","+(add♯9,♯11,13)"],
+                                    "Diminished": ["dim(add♯9,♯11,13)","o(add♯9,♯11,13)"],
+                                    "Suspended Second": ["sus2(add♯9,♯11,13)"],
+                                    "Suspended Fourth": ["sus(add♯9,♯11,13)","sus4(add♯9,♯11,13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add♯11,13)","M6/♯9(add♯11,13)","maj6/♯9(add♯11,13)","Δ6/♯9(add♯11,13)"],
+                                    "Minor Sixth": ["m6/♯9(add♯11,13)","min6/♯9(add♯11,13)","-6/♯9(add♯11,13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M13(♯9,♯11)","maj13(♯9,♯11)","Δ13(♯9,♯11)"],
+                                    "Dominant": ["13(♯9,♯11)","dom13(♯9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug13(♯9,♯11)","+13(♯9,♯11)","13(♯9,♯11)(♯5)","13(♯9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["13(♯9,♯11)(♭5)","13(♯9,♯11)(-5)","dom13(♯9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["13(♯9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["13(♯9,♯11)sus","13(♯9,♯11)sus4"],
+                                    "Minor Major": ["m(M13(♯9,♯11))","min(maj13(♯9,♯11))","-Δ13(♯9,♯11)"],
+                                    "Minor": ["m13(♯9,♯11)","min13(♯9,♯11)","-13(♯9,♯11)"],
+                                    "Half Diminished": ["ø13(♯9,♯11)","m13(♯9,♯11)(♭5)","min13(♯9,♯11)(♭5)","-13(♯9,♯11)(♭5)","m13(♯9,♯11)(-5)"],
+                                    "Diminished": ["dim13(♯9,♯11)","o13(♯9,♯11)"],
+                                    "Augmented": ["aug13(♯9,♯11)","+13(♯9,♯11)","13(♯9,♯11)(♯5)","13(♯9,♯11)(+5)"]
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Flat Thirteenth": {
+                "Triads": {
+                    "Major": ["(add♭13)","M(add♭13)","maj(add♭13)","Δ(add♭13)"],
+                    "Minor": ["m(add♭13)","min(add♭13)","-(add♭13)"],
+                    "Augmented": ["aug(add♭13)","+(add♭13)"],
+                    "Diminished": ["dim(add♭13)","o(add♭13)"],
+                    "Suspended Second": ["sus2(add♭13)"],
+                    "Suspended Fourth": ["sus(add♭13)","sus4(add♭13)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6(add♭13)","M6(add♭13)","maj6(add♭13)","Δ6(add♭13)"],
+                    "Minor Sixth": ["m6(add♭13)","min6(add♭13)","-6(add♭13)"]
+                },
+                "Sevenths": {
+                    "Major": ["M7(add♭13)","maj7(add♭13)","Δ7(add♭13)"],
+                    "Dominant": ["7(add♭13)","dom7(add♭13)"],
+                    "Dominant Sharp Fifth": ["aug7(add♭13)","+7(add♭13)","7(add♭13)(♯5)","7(add♭13)(+5)"],
+                    "Dominant Flat Fifth": ["7(add♭13)(♭5)","7(add♭13)(-5)","dom7(add♭13)(♭5)"],
+                    "Dominant Suspended Second": ["7(add♭13)sus2"],
+                    "Dominant Suspended Fourth": ["7(add♭13)sus","7(add♭13)sus4"],
+                    "Minor Major": ["m(M7(add♭13))","min(maj7(add♭13))","-Δ7(add♭13)"],
+                    "Minor": ["m7(add♭13)","min7(add♭13)","-7(add♭13)"],
+                    "Half Diminished": ["ø7(add♭13)","m7(add♭13)(♭5)","min7(add♭13)(♭5)","-7(add♭13)(♭5)","m7(add♭13)(-5)"],
+                    "Diminished": ["dim7(add♭13)","o7(add♭13)"],
+                    "Augmented": ["aug7(add♭13)","+7(add♭13)","7(add♭13)(♯5)","7(add♭13)(+5)"]
+                },
+                "Ninths": {
+                    "Ninth":{
+                        "Triads": {
+                            "Major": ["(add9,♭13)","M(add9,♭13)","maj(add9,♭13)","Δ(add9,♭13)"],
+                            "Minor": ["m(add9,♭13)","min(add9,♭13)","-(add9,♭13)"],
+                            "Augmented": ["aug(add9,♭13)","+(add9,♭13)"],
+                            "Diminished": ["dim(add9,♭13)","o(add9,♭13)"],
+                            "Suspended Second": ["sus2(add9,♭13)"],
+                            "Suspended Fourth": ["sus(add9,♭13)","sus4(add9,♭13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/9(add♭13)","M6/9(add♭13)","maj6/9(add♭13)","Δ6/9(add♭13)"],
+                            "Minor Sixth": ["m6/9(add♭13)","min6/9(add♭13)","-6/9(add♭13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M9(add♭13)","maj9(add♭13)","Δ9(add♭13)"],
+                            "Dominant": ["9(add♭13)","dom9(add♭13)"],
+                            "Dominant Sharp Fifth": ["aug9(add♭13)","+9(add♭13)","9(add♭13)(♯5)","9(add♭13)(+5)"],
+                            "Dominant Flat Fifth": ["9(add♭13)(♭5)","9(add♭13)(-5)","dom9(add♭13)(♭5)"],
+                            "Dominant Suspended Second": ["9(add♭13)sus2"],
+                            "Dominant Suspended Fourth": ["9(add♭13)sus","9(add♭13)sus4"],
+                            "Minor Major": ["m(M9(add♭13))","min(maj9(add♭13))","-Δ9(add♭13)"],
+                            "Minor": ["m9(add♭13)","min9(add♭13)","-9(add♭13)"],
+                            "Half Diminished": ["ø9(add♭13)","m9(add♭13)(♭5)","min9(add♭13)(♭5)","-9(add♭13)(♭5)","m9(add♭13)(-5)"],
+                            "Diminished": ["dim9(add♭13)","o9(add♭13)"],
+                            "Augmented": ["aug9(add♭13)","+9(add♭13)","9(add♭13)(♯5)","9(add♭13)(+5)"]
+                        }
+                    },
+                    "Flat Ninth": {
+                        "Triads": {
+                            "Major": ["(add♭9,♭13)","M(add♭9,♭13)","maj(add♭9,♭13)","Δ(add♭9,♭13)"],
+                            "Minor": ["m(add♭9,♭13)","min(add♭9,♭13)","-(add♭9,♭13)"],
+                            "Augmented": ["aug(add♭9,♭13)","+(add♭9,♭13)"],
+                            "Diminished": ["dim(add♭9,♭13)","o(add♭9,♭13)"],
+                            "Suspended Second": ["sus2(add♭9,♭13)"],
+                            "Suspended Fourth": ["sus(add♭9,♭13)","sus4(add♭9,♭13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♭9(add♭13)","M6/♭9(add♭13)","maj6/♭9(add♭13)","Δ6/♭9(add♭13)"],
+                            "Minor Sixth": ["m6/♭9(add♭13)","min6/♭9(add♭13)","-6/♭9(add♭13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♭9(add♭13)","maj♭9(add♭13)","Δ♭9(add♭13)"],
+                            "Dominant": ["♭9(add♭13)","dom♭9(add♭13)"],
+                            "Dominant Sharp Fifth": ["aug♭9(add♭13)","+♭9(add♭13)","♭9(add♭13)(♯5)","♭9(add♭13)(+5)"],
+                            "Dominant Flat Fifth": ["♭9(add♭13)(♭5)","♭9(add♭13)(-5)","dom♭9(add♭13)(♭5)"],
+                            "Dominant Suspended Second": ["♭9(add♭13)sus2"],
+                            "Dominant Suspended Fourth": ["♭9(add♭13)sus","♭9(add♭13)sus4"],
+                            "Minor Major": ["m(M♭9(add♭13))","min(maj♭9(add♭13))","-Δ♭9(add♭13)"],
+                            "Minor": ["m♭9(add♭13)","min♭9(add♭13)","-♭9(add♭13)"],
+                            "Half Diminished": ["ø♭9(add♭13)","m♭9(add♭13)(♭5)","min♭9(add♭13)(♭5)","-♭9(add♭13)(♭5)","m♭9(add♭13)(-5)"],
+                            "Diminished": ["dim♭9(add♭13)","o♭9(add♭13)"],
+                            "Augmented": ["aug♭9(add♭13)","+♭9(add♭13)","♭9(add♭13)(♯5)","♭9(add♭13)(+5)"]
+                        }
+                    },
+                    "Sharp Ninth": {
+                        "Triads": {
+                            "Major": ["(add♯9,♭13)","M(add♯9,♭13)","maj(add♯9,♭13)","Δ(add♯9,♭13)"],
+                            "Minor": ["m(add♯9,♭13)","min(add♯9,♭13)","-(add♯9,♭13)"],
+                            "Augmented": ["aug(add♯9,♭13)","+(add♯9,♭13)"],
+                            "Diminished": ["dim(add♯9,♭13)","o(add♯9,♭13)"],
+                            "Suspended Second": ["sus2(add♯9,♭13)"],
+                            "Suspended Fourth": ["sus(add♯9,♭13)","sus4(add♯9,♭13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯9(add♭13)","M6/♯9(add♭13)","maj6/♯9(add♭13)","Δ6/♯9(add♭13)"],
+                            "Minor Sixth": ["m6/♯9(add♭13)","min6/♯9(add♭13)","-6/♯9(add♭13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯9(add♭13)","maj♯9(add♭13)","Δ♯9(add♭13)"],
+                            "Dominant": ["♯9(add♭13)","dom♯9(add♭13)"],
+                            "Dominant Sharp Fifth": ["aug♯9(add♭13)","+♯9(add♭13)","♯9(add♭13)(♯5)","♯9(add♭13)(+5)"],
+                            "Dominant Flat Fifth": ["♯9(add♭13)(♭5)","♯9(add♭13)(-5)","dom♯9(add♭13)(♭5)"],
+                            "Dominant Suspended Second": ["♯9(add♭13)sus2"],
+                            "Dominant Suspended Fourth": ["♯9(add♭13)sus","♯9(add♭13)sus4"],
+                            "Minor Major": ["m(M♯9(add♭13))","min(maj♯9(add♭13))","-Δ♯9(add♭13)"],
+                            "Minor": ["m♯9(add♭13)","min♯9(add♭13)","-♯9(add♭13)"],
+                            "Half Diminished": ["ø♯9(add♭13)","m♯9(add♭13)(♭5)","min♯9(add♭13)(♭5)","-♯9(add♭13)(♭5)","m♯9(add♭13)(-5)"],
+                            "Diminished": ["dim♯9(add♭13)","o♯9(add♭13)"],
+                            "Augmented": ["aug♯9(add♭13)","+♯9(add♭13)","♯9(add♭13)(♯5)","♯9(add♭13)(+5)"]
+                        }
+                    }
+                },
+                "Elevenths": {
+                    "Eleventh": {
+                        "Triads": {
+                            "Major": ["(add11,♭13)","M(add11,♭13)","maj(add11,♭13)","Δ(add11,♭13)"],
+                            "Minor": ["m(add11,♭13)","min(add11,♭13)","-(add11,♭13)"],
+                            "Augmented": ["aug(add11,♭13)","+(add11,♭13)"],
+                            "Diminished": ["dim(add11,♭13)","o(add11,♭13)"],
+                            "Suspended Second": ["sus2(add11,♭13)"],
+                            "Suspended Fourth": ["sus(add11,♭13)","sus4(add11,♭13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add11,♭13)","M6(add11,♭13)","maj6(add11,♭13)","Δ6(add11,♭13)"],
+                            "Minor Sixth": ["m6(add11,♭13)","min6(add11,♭13)","-6(add11,♭13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add11,♭13)","maj7(add11,♭13)","Δ7(add11,♭13)"],
+                            "Dominant": ["7(add11,♭13)","dom7(add11,♭13)"],
+                            "Dominant Sharp Fifth": ["aug7(add11,♭13)","+7(add11,♭13)","7(♯5)(add11,♭13)","7(+5)(add11,♭13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add11,♭13)","7(-5)(add11,♭13)","dom7(♭5)(add11,♭13)"],
+                            "Dominant Suspended Second": ["7sus2(add11,♭13)"],
+                            "Dominant Suspended Fourth": ["7sus(add11,♭13)","7sus4(add11,♭13)"],
+                            "Minor Major": ["m(M7)(add11,♭13)","min(maj7)(add11,♭13)","-Δ7(add11,♭13)"],
+                            "Minor": ["m7(add11,♭13)","min7(add11,♭13)","-7(add11,♭13)"],
+                            "Half Diminished": ["ø7(add11,♭13)","m7(♭5)(add11,♭13)","min7(♭5)(add11,♭13)","-7(♭5)(add11,♭13)","m7(-5)(add11,♭13)"],
+                            "Diminished": ["dim7(add11,♭13)","o7(add11,♭13)"],
+                            "Augmented": ["aug7(add11,♭13)","+7(add11,♭13)","7(♯5)(add11,♭13)","7(+5)(add11,♭13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,11,♭13)","M(add9,11,♭13)","maj(add9,11,♭13)","Δ(add9,11,♭13)"],
+                                    "Minor": ["m(add9,11,♭13)","min(add9,11,♭13)","-(add9,11,♭13)"],
+                                    "Augmented": ["aug(add9,11,♭13)","+(add9,11,♭13)"],
+                                    "Diminished": ["dim(add9,11,♭13)","o(add9,11,♭13)"],
+                                    "Suspended Second": ["sus2(add9,11,♭13)"],
+                                    "Suspended Fourth": ["sus(add9,11,♭13)","sus4(add9,11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/11(add♭13)","M6/11(add♭13)","maj6/11(add♭13)","Δ6/11(add♭13)"],
+                                    "Minor Sixth": ["m6/11(add♭13)","min6/11(add♭13)","-6/11(add♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♭13","maj♭13","Δ♭13"],
+                                    "Dominant": ["♭13","dom♭13"],
+                                    "Dominant Sharp Fifth": ["aug♭13","+♭13","♭13(♯5)","♭13(+5)"],
+                                    "Dominant Flat Fifth": ["♭13(♭5)","♭13(-5)","dom♭13(♭5)"],
+                                    "Dominant Suspended Second": ["♭13sus2"],
+                                    "Dominant Suspended Fourth": ["♭13sus","♭13sus4"],
+                                    "Minor Major": ["m(M♭13)","min(maj♭13)","-Δ♭13"],
+                                    "Minor": ["m♭13","min♭13","-♭13"],
+                                    "Half Diminished": ["ø♭13","m♭13(♭5)","min♭13(♭5)","-♭13(♭5)","m♭13(-5)"],
+                                    "Diminished": ["dim♭13","o♭13"],
+                                    "Augmented": ["aug♭13","+♭13","♭13(♯5)","♭13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,11,♭13)","M(add♭9,11,♭13)","maj(add♭9,11,♭13)","Δ(add♭9,11,♭13)"],
+                                    "Minor": ["m(add♭9,11,♭13)","min(add♭9,11,♭13)","-(add♭9,11,♭13)"],
+                                    "Augmented": ["aug(add♭9,11,♭13)","+(add♭9,11,♭13)"],
+                                    "Diminished": ["dim(add♭9,11,♭13)","o(add♭9,11,♭13)"],
+                                    "Suspended Second": ["sus2(add♭9,11,♭13)"],
+                                    "Suspended Fourth": ["sus(add♭9,11,♭13)","sus4(add♭9,11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add11,♭13)","M6/♭9(add11,♭13)","maj6/♭9(add11,♭13)","Δ6/♭9(add11,♭13)"],
+                                    "Minor Sixth": ["m6/♭9(add11,♭13)","min6/♭9(add11,♭13)","-6/♭9(add11,♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♭13(♭9)","maj♭13(♭9)","Δ♭13(♭9)"],
+                                    "Dominant": ["♭13(♭9)","dom♭13(♭9)"],
+                                    "Dominant Sharp Fifth": ["aug♭13(♭9)","+♭13(♭9)","♭13(♭9)(♯5)","♭13(♭9)(+5)"],
+                                    "Dominant Flat Fifth": ["♭13(♭9)(♭5)","♭13(♭9)(-5)","dom♭13(♭9)(♭5)"],
+                                    "Dominant Suspended Second": ["♭13(♭9)sus2"],
+                                    "Dominant Suspended Fourth": ["♭13(♭9)sus","♭13(♭9)sus4"],
+                                    "Minor Major": ["m(M♭13(♭9))","min(maj♭13(♭9))","-Δ♭13(♭9)"],
+                                    "Minor": ["m♭13(♭9)","min♭13(♭9)","-♭13(♭9)"],
+                                    "Half Diminished": ["ø♭13(♭9)","m♭13(♭9)(♭5)","min♭13(♭9)(♭5)","-♭13(♭9)(♭5)","m♭13(♭9)(-5)"],
+                                    "Diminished": ["dim♭13(♭9)","o♭13(♭9)"],
+                                    "Augmented": ["aug♭13(♭9)","+♭13(♭9)","♭13(♭9)(♯5)","♭13(♭9)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,11,♭13)","M(add♯9,11,♭13)","maj(add♯9,11,♭13)","Δ(add♯9,11,♭13)"],
+                                    "Minor": ["m(add♯9,11,♭13)","min(add♯9,11,♭13)","-(add♯9,11,♭13)"],
+                                    "Augmented": ["aug(add♯9,11,♭13)","+(add♯9,11,♭13)"],
+                                    "Diminished": ["dim(add♯9,11,♭13)","o(add♯9,11,♭13)"],
+                                    "Suspended Second": ["sus2(add♯9,11,♭13)"],
+                                    "Suspended Fourth": ["sus(add♯9,11,♭13)","sus4(add♯9,11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add11,♭13)","M6/♯9(add11,♭13)","maj6/♯9(add11,♭13)","Δ6/♯9(add11,♭13)"],
+                                    "Minor Sixth": ["m6/♯9(add11,♭13)","min6/♯9(add11,♭13)","-6/♯9(add11,♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♭13(♯9)","maj♭13(♯9)","Δ♭13(♯9)"],
+                                    "Dominant": ["♭13(♯9)","dom♭13(♯9)"],
+                                    "Dominant Sharp Fifth": ["aug♭13(♯9)","+♭13(♯9)","♭13(♯9)(♯5)","♭13(♯9)(+5)"],
+                                    "Dominant Flat Fifth": ["♭13(♯9)(♭5)","♭13(♯9)(-5)","dom♭13(♯9)(♭5)"],
+                                    "Dominant Suspended Second": ["♭13(♯9)sus2"],
+                                    "Dominant Suspended Fourth": ["♭13(♯9)sus","♭13(♯9)sus4"],
+                                    "Minor Major": ["m(M♭13(♯9))","min(maj♭13(♯9))","-Δ♭13(♯9)"],
+                                    "Minor": ["m♭13(♯9)","min♭13(♯9)","-♭13(♯9)"],
+                                    "Half Diminished": ["ø♭13(♯9)","m♭13(♯9)(♭5)","min♭13(♯9)(♭5)","-♭13(♯9)(♭5)","m♭13(♯9)(-5)"],
+                                    "Diminished": ["dim♭13(♯9)","o♭13(♯9)"],
+                                    "Augmented": ["aug♭13(♯9)","+♭13(♯9)","♭13(♯9)(♯5)","♭13(♯9)(+5)"]
+                                }
+                            }
+                        }
+                    },
+                    "Sharp Eleventh": {
+                        "Triads": {
+                            "Major": ["(add♯11,♭13)","M(add♯11,♭13)","maj(add♯11,♭13)","Δ(add♯11,♭13)"],
+                            "Minor": ["m(add♯11,♭13)","min(add♯11,♭13)","-(add♯11,♭13)"],
+                            "Augmented": ["aug(add♯11,♭13)","+(add♯11,♭13)"],
+                            "Diminished": ["dim(add♯11,♭13)","o(add♯11,♭13)"],
+                            "Suspended Second": ["sus2(add♯11,♭13)"],
+                            "Suspended Fourth": ["sus(add♯11,♭13)","sus4(add♯11,♭13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add♯11,♭13)","M6(add♯11,♭13)","maj6(add♯11,♭13)","Δ6(add♯11,♭13)"],
+                            "Minor Sixth": ["m6(add♯11,♭13)","min6(add♯11,♭13)","-6(add♯11,♭13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add♯11,♭13)","maj7(add♯11,♭13)","Δ7(add♯11,♭13)"],
+                            "Dominant": ["7(add♯11,♭13)","dom7(add♯11,♭13)"],
+                            "Dominant Sharp Fifth": ["aug7(add♯11,♭13)","+7(add♯11,♭13)","7(♯5)(add♯11,♭13)","7(+5)(add♯11,♭13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add♯11,♭13)","7(-5)(add♯11,♭13)","dom7(♭5)(add♯11,♭13)"],
+                            "Dominant Suspended Second": ["7sus2(add♯11,♭13)"],
+                            "Dominant Suspended Fourth": ["7sus(add♯11,♭13)","7sus4(add♯11,♭13)"],
+                            "Minor Major": ["m(M7)(add♯11,♭13)","min(maj7)(add♯11,♭13)","-Δ7(add♯11,♭13)"],
+                            "Minor": ["m7(add♯11,♭13)","min7(add♯11,♭13)","-7(add♯11,♭13)"],
+                            "Half Diminished": ["ø7(add♯11,♭13)","m7(♭5)(add♯11,♭13)","min7(♭5)(add♯11,♭13)","-7(♭5)(add♯11,♭13)","m7(-5)(add♯11,♭13)"],
+                            "Diminished": ["dim7(add♯11,♭13)","o7(add♯11,♭13)"],
+                            "Augmented": ["aug7(add♯11,♭13)","+7(add♯11,♭13)","7(♯5)(add♯11,♭13)","7(+5)(add♯11,♭13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,♯11,♭13)","M(add9,♯11,♭13)","maj(add9,♯11,♭13)","Δ(add9,♯11,♭13)"],
+                                    "Minor": ["m(add9,♯11,♭13)","min(add9,♯11,♭13)","-(add9,♯11,♭13)"],
+                                    "Augmented": ["aug(add9,♯11,♭13)","+(add9,♯11,♭13)"],
+                                    "Diminished": ["dim(add9,♯11,♭13)","o(add9,♯11,♭13)"],
+                                    "Suspended Second": ["sus2(add9,♯11,♭13)"],
+                                    "Suspended Fourth": ["sus(add9,♯11,♭13)","sus4(add9,♯11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯11(add♭13)","M6/♯11(add♭13)","maj6/♯11(add♭13)","Δ6/♯11(add♭13)"],
+                                    "Minor Sixth": ["m6/♯11(add♭13)","min6/♯11(add♭13)","-6/♯11(add♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯♭13","maj♯♭13","Δ♯♭13"],
+                                    "Dominant": ["♯♭13","dom♯♭13"],
+                                    "Dominant Sharp Fifth": ["aug♯♭13","+♯♭13","♯♭13(♯5)","♯♭13(+5)"],
+                                    "Dominant Flat Fifth": ["♯♭13(♭5)","♯♭13(-5)","dom♯♭13(♭5)"],
+                                    "Dominant Suspended Second": ["♯♭13sus2"],
+                                    "Dominant Suspended Fourth": ["♯♭13sus","♯♭13sus4"],
+                                    "Minor Major": ["m(M♯♭13)","min(maj♯♭13)","-Δ♯♭13"],
+                                    "Minor": ["m♯♭13","min♯♭13","-♯♭13"],
+                                    "Half Diminished": ["ø♯♭13","m♯♭13(♭5)","min♯♭13(♭5)","-♯♭13(♭5)","m♯♭13(-5)"],
+                                    "Diminished": ["dim♯♭13","o♯♭13"],
+                                    "Augmented": ["aug♯♭13","+♯♭13","♯♭13(♯5)","♯♭13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,♯11,♭13)","M(add♭9,♯11,♭13)","maj(add♭9,♯11,♭13)","Δ(add♭9,♯11,♭13)"],
+                                    "Minor": ["m(add♭9,♯11,♭13)","min(add♭9,♯11,♭13)","-(add♭9,♯11,♭13)"],
+                                    "Augmented": ["aug(add♭9,♯11,♭13)","+(add♭9,♯11,♭13)"],
+                                    "Diminished": ["dim(add♭9,♯11,♭13)","o(add♭9,♯11,♭13)"],
+                                    "Suspended Second": ["sus2(add♭9,♯11,♭13)"],
+                                    "Suspended Fourth": ["sus(add♭9,♯11,♭13)","sus4(add♭9,♯11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add♯11,♭13)","M6/♭9(add♯11,♭13)","maj6/♭9(add♯11,♭13)","Δ6/♭9(add♯11,♭13)"],
+                                    "Minor Sixth": ["m6/♭9(add♯11,♭13)","min6/♭9(add♯11,♭13)","-6/♭9(add♯11,♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♭13(♭9,♯11)","maj♭13(♭9,♯11)","Δ♭13(♭9,♯11)"],
+                                    "Dominant": ["♭13(♭9,♯11)","dom♭13(♭9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug♭13(♭9,♯11)","+♭13(♭9,♯11)","♭13(♭9,♯11)(♯5)","♭13(♭9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["♭13(♭9,♯11)(♭5)","♭13(♭9,♯11)(-5)","dom♭13(♭9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["♭13(♭9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["♭13(♭9,♯11)sus","♭13(♭9,♯11)sus4"],
+                                    "Minor Major": ["m(M♭13(♭9,♯11))","min(maj♭13(♭9,♯11))","-Δ♭13(♭9,♯11)"],
+                                    "Minor": ["m♭13(♭9,♯11)","min♭13(♭9,♯11)","-♭13(♭9,♯11)"],
+                                    "Half Diminished": ["ø♭13(♭9,♯11)","m♭13(♭9,♯11)(♭5)","min♭13(♭9,♯11)(♭5)","-♭13(♭9,♯11)(♭5)","m♭13(♭9,♯11)(-5)"],
+                                    "Diminished": ["dim♭13(♭9,♯11)","o♭13(♭9,♯11)"],
+                                    "Augmented": ["aug♭13(♭9,♯11)","+♭13(♭9,♯11)","♭13(♭9,♯11)(♯5)","♭13(♭9,♯11)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,♯11,♭13)","M(add♯9,♯11,♭13)","maj(add♯9,♯11,♭13)","Δ(add♯9,♯11,♭13)"],
+                                    "Minor": ["m(add♯9,♯11,♭13)","min(add♯9,♯11,♭13)","-(add♯9,♯11,♭13)"],
+                                    "Augmented": ["aug(add♯9,♯11,♭13)","+(add♯9,♯11,♭13)"],
+                                    "Diminished": ["dim(add♯9,♯11,♭13)","o(add♯9,♯11,♭13)"],
+                                    "Suspended Second": ["sus2(add♯9,♯11,♭13)"],
+                                    "Suspended Fourth": ["sus(add♯9,♯11,♭13)","sus4(add♯9,♯11,♭13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add♯11,♭13)","M6/♯9(add♯11,♭13)","maj6/♯9(add♯11,♭13)","Δ6/♯9(add♯11,♭13)"],
+                                    "Minor Sixth": ["m6/♯9(add♯11,♭13)","min6/♯9(add♯11,♭13)","-6/♯9(add♯11,♭13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♭13(♯9,♯11)","maj♭13(♯9,♯11)","Δ♭13(♯9,♯11)"],
+                                    "Dominant": ["♭13(♯9,♯11)","dom♭13(♯9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug♭13(♯9,♯11)","+♭13(♯9,♯11)","♭13(♯9,♯11)(♯5)","♭13(♯9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["♭13(♯9,♯11)(♭5)","♭13(♯9,♯11)(-5)","dom♭13(♯9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["♭13(♯9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["♭13(♯9,♯11)sus","♭13(♯9,♯11)sus4"],
+                                    "Minor Major": ["m(M♭13(♯9,♯11))","min(maj♭13(♯9,♯11))","-Δ♭13(♯9,♯11)"],
+                                    "Minor": ["m♭13(♯9,♯11)","min♭13(♯9,♯11)","-♭13(♯9,♯11)"],
+                                    "Half Diminished": ["ø♭13(♯9,♯11)","m♭13(♯9,♯11)(♭5)","min♭13(♯9,♯11)(♭5)","-♭13(♯9,♯11)(♭5)","m♭13(♯9,♯11)(-5)"],
+                                    "Diminished": ["dim♭13(♯9,♯11)","o♭13(♯9,♯11)"],
+                                    "Augmented": ["aug♭13(♯9,♯11)","+♭13(♯9,♯11)","♭13(♯9,♯11)(♯5)","♭13(♯9,♯11)(+5)"]
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "Sharp Thirteenth": {
+                "Triads": {
+                    "Major": ["(add♯13)","M(add♯13)","maj(add♯13)","Δ(add♯13)"],
+                    "Minor": ["m(add♯13)","min(add♯13)","-(add♯13)"],
+                    "Augmented": ["aug(add♯13)","+(add♯13)"],
+                    "Diminished": ["dim(add♯13)","o(add♯13)"],
+                    "Suspended Second": ["sus2(add♯13)"],
+                    "Suspended Fourth": ["sus(add♯13)","sus4(add♯13)"]
+                },
+                "Sixth": {
+                    "Major Sixth": ["6(add♯13)","M6(add♯13)","maj6(add♯13)","Δ6(add♯13)"],
+                    "Minor Sixth": ["m6(add♯13)","min6(add♯13)","-6(add♯13)"]
+                },
+                "Sevenths": {
+                    "Major": ["M7(add♯13)","maj7(add♯13)","Δ7(add♯13)"],
+                    "Dominant": ["7(add♯13)","dom7(add♯13)"],
+                    "Dominant Sharp Fifth": ["aug7(add♯13)","+7(add♯13)","7(add♯13)(♯5)","7(add♯13)(+5)"],
+                    "Dominant Flat Fifth": ["7(add♯13)(♭5)","7(add♯13)(-5)","dom7(add♯13)(♭5)"],
+                    "Dominant Suspended Second": ["7(add♯13)sus2"],
+                    "Dominant Suspended Fourth": ["7(add♯13)sus","7(add♯13)sus4"],
+                    "Minor Major": ["m(M7(add♯13))","min(maj7(add♯13))","-Δ7(add♯13)"],
+                    "Minor": ["m7(add♯13)","min7(add♯13)","-7(add♯13)"],
+                    "Half Diminished": ["ø7(add♯13)","m7(add♯13)(♭5)","min7(add♯13)(♭5)","-7(add♯13)(♭5)","m7(add♯13)(-5)"],
+                    "Diminished": ["dim7(add♯13)","o7(add♯13)"],
+                    "Augmented": ["aug7(add♯13)","+7(add♯13)","7(add♯13)(♯5)","7(add♯13)(+5)"]
+                },
+                "Ninths": {
+                    "Ninth":{
+                        "Triads": {
+                            "Major": ["(add9,♯13)","M(add9,♯13)","maj(add9,♯13)","Δ(add9,♯13)"],
+                            "Minor": ["m(add9,♯13)","min(add9,♯13)","-(add9,♯13)"],
+                            "Augmented": ["aug(add9,♯13)","+(add9,♯13)"],
+                            "Diminished": ["dim(add9,♯13)","o(add9,♯13)"],
+                            "Suspended Second": ["sus2(add9,♯13)"],
+                            "Suspended Fourth": ["sus(add9,♯13)","sus4(add9,♯13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/9(add♯13)","M6/9(add♯13)","maj6/9(add♯13)","Δ6/9(add♯13)"],
+                            "Minor Sixth": ["m6/9(add♯13)","min6/9(add♯13)","-6/9(add♯13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M9(add♯13)","maj9(add♯13)","Δ9(add♯13)"],
+                            "Dominant": ["9(add♯13)","dom9(add♯13)"],
+                            "Dominant Sharp Fifth": ["aug9(add♯13)","+9(add♯13)","9(add♯13)(♯5)","9(add♯13)(+5)"],
+                            "Dominant Flat Fifth": ["9(add♯13)(♭5)","9(add♯13)(-5)","dom9(add♯13)(♭5)"],
+                            "Dominant Suspended Second": ["9(add♯13)sus2"],
+                            "Dominant Suspended Fourth": ["9(add♯13)sus","9(add♯13)sus4"],
+                            "Minor Major": ["m(M9(add♯13))","min(maj9(add♯13))","-Δ9(add♯13)"],
+                            "Minor": ["m9(add♯13)","min9(add♯13)","-9(add♯13)"],
+                            "Half Diminished": ["ø9(add♯13)","m9(add♯13)(♭5)","min9(add♯13)(♭5)","-9(add♯13)(♭5)","m9(add♯13)(-5)"],
+                            "Diminished": ["dim9(add♯13)","o9(add♯13)"],
+                            "Augmented": ["aug9(add♯13)","+9(add♯13)","9(add♯13)(♯5)","9(add♯13)(+5)"]
+                        }
+                    },
+                    "Flat Ninth": {
+                        "Triads": {
+                            "Major": ["(add♭9,♯13)","M(add♭9,♯13)","maj(add♭9,♯13)","Δ(add♭9,♯13)"],
+                            "Minor": ["m(add♭9,♯13)","min(add♭9,♯13)","-(add♭9,♯13)"],
+                            "Augmented": ["aug(add♭9,♯13)","+(add♭9,♯13)"],
+                            "Diminished": ["dim(add♭9,♯13)","o(add♭9,♯13)"],
+                            "Suspended Second": ["sus2(add♭9,♯13)"],
+                            "Suspended Fourth": ["sus(add♭9,♯13)","sus4(add♭9,♯13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♭9(add♯13)","M6/♭9(add♯13)","maj6/♭9(add♯13)","Δ6/♭9(add♯13)"],
+                            "Minor Sixth": ["m6/♭9(add♯13)","min6/♭9(add♯13)","-6/♭9(add♯13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♭9(add♯13)","maj♭9(add♯13)","Δ♭9(add♯13)"],
+                            "Dominant": ["♭9(add♯13)","dom♭9(add♯13)"],
+                            "Dominant Sharp Fifth": ["aug♭9(add♯13)","+♭9(add♯13)","♭9(add♯13)(♯5)","♭9(add♯13)(+5)"],
+                            "Dominant Flat Fifth": ["♭9(add♯13)(♭5)","♭9(add♯13)(-5)","dom♭9(add♯13)(♭5)"],
+                            "Dominant Suspended Second": ["♭9(add♯13)sus2"],
+                            "Dominant Suspended Fourth": ["♭9(add♯13)sus","♭9(add♯13)sus4"],
+                            "Minor Major": ["m(M♭9(add♯13))","min(maj♭9(add♯13))","-Δ♭9(add♯13)"],
+                            "Minor": ["m♭9(add♯13)","min♭9(add♯13)","-♭9(add♯13)"],
+                            "Half Diminished": ["ø♭9(add♯13)","m♭9(add♯13)(♭5)","min♭9(add♯13)(♭5)","-♭9(add♯13)(♭5)","m♭9(add♯13)(-5)"],
+                            "Diminished": ["dim♭9(add♯13)","o♭9(add♯13)"],
+                            "Augmented": ["aug♭9(add♯13)","+♭9(add♯13)","♭9(add♯13)(♯5)","♭9(add♯13)(+5)"]
+                        }
+                    },
+                    "Sharp Ninth": {
+                        "Triads": {
+                            "Major": ["(add♯9,♯13)","M(add♯9,♯13)","maj(add♯9,♯13)","Δ(add♯9,♯13)"],
+                            "Minor": ["m(add♯9,♯13)","min(add♯9,♯13)","-(add♯9,♯13)"],
+                            "Augmented": ["aug(add♯9,♯13)","+(add♯9,♯13)"],
+                            "Diminished": ["dim(add♯9,♯13)","o(add♯9,♯13)"],
+                            "Suspended Second": ["sus2(add♯9,♯13)"],
+                            "Suspended Fourth": ["sus(add♯9,♯13)","sus4(add♯9,♯13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6/♯9(add♯13)","M6/♯9(add♯13)","maj6/♯9(add♯13)","Δ6/♯9(add♯13)"],
+                            "Minor Sixth": ["m6/♯9(add♯13)","min6/♯9(add♯13)","-6/♯9(add♯13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M♯9(add♯13)","maj♯9(add♯13)","Δ♯9(add♯13)"],
+                            "Dominant": ["♯9(add♯13)","dom♯9(add♯13)"],
+                            "Dominant Sharp Fifth": ["aug♯9(add♯13)","+♯9(add♯13)","♯9(add♯13)(♯5)","♯9(add♯13)(+5)"],
+                            "Dominant Flat Fifth": ["♯9(add♯13)(♭5)","♯9(add♯13)(-5)","dom♯9(add♯13)(♭5)"],
+                            "Dominant Suspended Second": ["♯9(add♯13)sus2"],
+                            "Dominant Suspended Fourth": ["♯9(add♯13)sus","♯9(add♯13)sus4"],
+                            "Minor Major": ["m(M♯9(add♯13))","min(maj♯9(add♯13))","-Δ♯9(add♯13)"],
+                            "Minor": ["m♯9(add♯13)","min♯9(add♯13)","-♯9(add♯13)"],
+                            "Half Diminished": ["ø♯9(add♯13)","m♯9(add♯13)(♭5)","min♯9(add♯13)(♭5)","-♯9(add♯13)(♭5)","m♯9(add♯13)(-5)"],
+                            "Diminished": ["dim♯9(add♯13)","o♯9(add♯13)"],
+                            "Augmented": ["aug♯9(add♯13)","+♯9(add♯13)","♯9(add♯13)(♯5)","♯9(add♯13)(+5)"]
+                        }
+                    }
+                },
+                "Elevenths": {
+                    "Eleventh": {
+                        "Triads": {
+                            "Major": ["(add11,♯13)","M(add11,♯13)","maj(add11,♯13)","Δ(add11,♯13)"],
+                            "Minor": ["m(add11,♯13)","min(add11,♯13)","-(add11,♯13)"],
+                            "Augmented": ["aug(add11,♯13)","+(add11,♯13)"],
+                            "Diminished": ["dim(add11,♯13)","o(add11,♯13)"],
+                            "Suspended Second": ["sus2(add11,♯13)"],
+                            "Suspended Fourth": ["sus(add11,♯13)","sus4(add11,♯13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add11,♯13)","M6(add11,♯13)","maj6(add11,♯13)","Δ6(add11,♯13)"],
+                            "Minor Sixth": ["m6(add11,♯13)","min6(add11,♯13)","-6(add11,♯13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add11,♯13)","maj7(add11,♯13)","Δ7(add11,♯13)"],
+                            "Dominant": ["7(add11,♯13)","dom7(add11,♯13)"],
+                            "Dominant Sharp Fifth": ["aug7(add11,♯13)","+7(add11,♯13)","7(♯5)(add11,♯13)","7(+5)(add11,♯13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add11,♯13)","7(-5)(add11,♯13)","dom7(♭5)(add11,♯13)"],
+                            "Dominant Suspended Second": ["7sus2(add11,♯13)"],
+                            "Dominant Suspended Fourth": ["7sus(add11,♯13)","7sus4(add11,♯13)"],
+                            "Minor Major": ["m(M7)(add11,♯13)","min(maj7)(add11,♯13)","-Δ7(add11,♯13)"],
+                            "Minor": ["m7(add11,♯13)","min7(add11,♯13)","-7(add11,♯13)"],
+                            "Half Diminished": ["ø7(add11,♯13)","m7(♭5)(add11,♯13)","min7(♭5)(add11,♯13)","-7(♭5)(add11,♯13)","m7(-5)(add11,♯13)"],
+                            "Diminished": ["dim7(add11,♯13)","o7(add11,♯13)"],
+                            "Augmented": ["aug7(add11,♯13)","+7(add11,♯13)","7(♯5)(add11,♯13)","7(+5)(add11,♯13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,11,♯13)","M(add9,11,♯13)","maj(add9,11,♯13)","Δ(add9,11,♯13)"],
+                                    "Minor": ["m(add9,11,♯13)","min(add9,11,♯13)","-(add9,11,♯13)"],
+                                    "Augmented": ["aug(add9,11,♯13)","+(add9,11,♯13)"],
+                                    "Diminished": ["dim(add9,11,♯13)","o(add9,11,♯13)"],
+                                    "Suspended Second": ["sus2(add9,11,♯13)"],
+                                    "Suspended Fourth": ["sus(add9,11,♯13)","sus4(add9,11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/11(add♯13)","M6/11(add♯13)","maj6/11(add♯13)","Δ6/11(add♯13)"],
+                                    "Minor Sixth": ["m6/11(add♯13)","min6/11(add♯13)","-6/11(add♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13","maj♯13","Δ♯13"],
+                                    "Dominant": ["♯13","dom♯13"],
+                                    "Dominant Sharp Fifth": ["aug♯13","+♯13","♯13(♯5)","♯13(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♭5)","♯13(-5)","dom♯13(♭5)"],
+                                    "Dominant Suspended Second": ["♯13sus2"],
+                                    "Dominant Suspended Fourth": ["♯13sus","♯13sus4"],
+                                    "Minor Major": ["m(M♯13)","min(maj♯13)","-Δ♯13"],
+                                    "Minor": ["m♯13","min♯13","-♯13"],
+                                    "Half Diminished": ["ø♯13","m♯13(♭5)","min♯13(♭5)","-♯13(♭5)","m♯13(-5)"],
+                                    "Diminished": ["dim♯13","o♯13"],
+                                    "Augmented": ["aug♯13","+♯13","♯13(♯5)","♯13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,11,♯13)","M(add♭9,11,♯13)","maj(add♭9,11,♯13)","Δ(add♭9,11,♯13)"],
+                                    "Minor": ["m(add♭9,11,♯13)","min(add♭9,11,♯13)","-(add♭9,11,♯13)"],
+                                    "Augmented": ["aug(add♭9,11,♯13)","+(add♭9,11,♯13)"],
+                                    "Diminished": ["dim(add♭9,11,♯13)","o(add♭9,11,♯13)"],
+                                    "Suspended Second": ["sus2(add♭9,11,♯13)"],
+                                    "Suspended Fourth": ["sus(add♭9,11,♯13)","sus4(add♭9,11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add11,♯13)","M6/♭9(add11,♯13)","maj6/♭9(add11,♯13)","Δ6/♭9(add11,♯13)"],
+                                    "Minor Sixth": ["m6/♭9(add11,♯13)","min6/♭9(add11,♯13)","-6/♭9(add11,♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13(♭9)","maj♯13(♭9)","Δ♯13(♭9)"],
+                                    "Dominant": ["♯13(♭9)","dom♯13(♭9)"],
+                                    "Dominant Sharp Fifth": ["aug♯13(♭9)","+♯13(♭9)","♯13(♭9)(♯5)","♯13(♭9)(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♭9)(♭5)","♯13(♭9)(-5)","dom♯13(♭9)(♭5)"],
+                                    "Dominant Suspended Second": ["♯13(♭9)sus2"],
+                                    "Dominant Suspended Fourth": ["♯13(♭9)sus","♯13(♭9)sus4"],
+                                    "Minor Major": ["m(M♯13(♭9))","min(maj♯13(♭9))","-Δ♯13(♭9)"],
+                                    "Minor": ["m♯13(♭9)","min♯13(♭9)","-♯13(♭9)"],
+                                    "Half Diminished": ["ø♯13(♭9)","m♯13(♭9)(♭5)","min♯13(♭9)(♭5)","-♯13(♭9)(♭5)","m♯13(♭9)(-5)"],
+                                    "Diminished": ["dim♯13(♭9)","o♯13(♭9)"],
+                                    "Augmented": ["aug♯13(♭9)","+♯13(♭9)","♯13(♭9)(♯5)","♯13(♭9)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,11,♯13)","M(add♯9,11,♯13)","maj(add♯9,11,♯13)","Δ(add♯9,11,♯13)"],
+                                    "Minor": ["m(add♯9,11,♯13)","min(add♯9,11,♯13)","-(add♯9,11,♯13)"],
+                                    "Augmented": ["aug(add♯9,11,♯13)","+(add♯9,11,♯13)"],
+                                    "Diminished": ["dim(add♯9,11,♯13)","o(add♯9,11,♯13)"],
+                                    "Suspended Second": ["sus2(add♯9,11,♯13)"],
+                                    "Suspended Fourth": ["sus(add♯9,11,♯13)","sus4(add♯9,11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add11,♯13)","M6/♯9(add11,♯13)","maj6/♯9(add11,♯13)","Δ6/♯9(add11,♯13)"],
+                                    "Minor Sixth": ["m6/♯9(add11,♯13)","min6/♯9(add11,♯13)","-6/♯9(add11,♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13(♯9)","maj♯13(♯9)","Δ♯13(♯9)"],
+                                    "Dominant": ["♯13(♯9)","dom♯13(♯9)"],
+                                    "Dominant Sharp Fifth": ["aug♯13(♯9)","+♯13(♯9)","♯13(♯9)(♯5)","♯13(♯9)(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♯9)(♭5)","♯13(♯9)(-5)","dom♯13(♯9)(♭5)"],
+                                    "Dominant Suspended Second": ["♯13(♯9)sus2"],
+                                    "Dominant Suspended Fourth": ["♯13(♯9)sus","♯13(♯9)sus4"],
+                                    "Minor Major": ["m(M♯13(♯9))","min(maj♯13(♯9))","-Δ♯13(♯9)"],
+                                    "Minor": ["m♯13(♯9)","min♯13(♯9)","-♯13(♯9)"],
+                                    "Half Diminished": ["ø♯13(♯9)","m♯13(♯9)(♭5)","min♯13(♯9)(♭5)","-♯13(♯9)(♭5)","m♯13(♯9)(-5)"],
+                                    "Diminished": ["dim♯13(♯9)","o♯13(♯9)"],
+                                    "Augmented": ["aug♯13(♯9)","+♯13(♯9)","♯13(♯9)(♯5)","♯13(♯9)(+5)"]
+                                }
+                            }
+                        }
+                    },
+                    "Sharp Eleventh": {
+                        "Triads": {
+                            "Major": ["(add♯11,♯13)","M(add♯11,♯13)","maj(add♯11,♯13)","Δ(add♯11,♯13)"],
+                            "Minor": ["m(add♯11,♯13)","min(add♯11,♯13)","-(add♯11,♯13)"],
+                            "Augmented": ["aug(add♯11,♯13)","+(add♯11,♯13)"],
+                            "Diminished": ["dim(add♯11,♯13)","o(add♯11,♯13)"],
+                            "Suspended Second": ["sus2(add♯11,♯13)"],
+                            "Suspended Fourth": ["sus(add♯11,♯13)","sus4(add♯11,♯13)"]
+                        },
+                        "Sixth": {
+                            "Major Sixth": ["6(add♯11,♯13)","M6(add♯11,♯13)","maj6(add♯11,♯13)","Δ6(add♯11,♯13)"],
+                            "Minor Sixth": ["m6(add♯11,♯13)","min6(add♯11,♯13)","-6(add♯11,♯13)"]
+                        },
+                        "Sevenths": {
+                            "Major": ["M7(add♯11,♯13)","maj7(add♯11,♯13)","Δ7(add♯11,♯13)"],
+                            "Dominant": ["7(add♯11,♯13)","dom7(add♯11,♯13)"],
+                            "Dominant Sharp Fifth": ["aug7(add♯11,♯13)","+7(add♯11,♯13)","7(♯5)(add♯11,♯13)","7(+5)(add♯11,♯13)"],
+                            "Dominant Flat Fifth": ["7(♭5)(add♯11,♯13)","7(-5)(add♯11,♯13)","dom7(♭5)(add♯11,♯13)"],
+                            "Dominant Suspended Second": ["7sus2(add♯11,♯13)"],
+                            "Dominant Suspended Fourth": ["7sus(add♯11,♯13)","7sus4(add♯11,♯13)"],
+                            "Minor Major": ["m(M7)(add♯11,♯13)","min(maj7)(add♯11,♯13)","-Δ7(add♯11,♯13)"],
+                            "Minor": ["m7(add♯11,♯13)","min7(add♯11,♯13)","-7(add♯11,♯13)"],
+                            "Half Diminished": ["ø7(add♯11,♯13)","m7(♭5)(add♯11,♯13)","min7(♭5)(add♯11,♯13)","-7(♭5)(add♯11,♯13)","m7(-5)(add♯11,♯13)"],
+                            "Diminished": ["dim7(add♯11,♯13)","o7(add♯11,♯13)"],
+                            "Augmented": ["aug7(add♯11,♯13)","+7(add♯11,♯13)","7(♯5)(add♯11,♯13)","7(+5)(add♯11,♯13)"]
+                        },
+                        "Ninths": {
+                            "Ninth": {
+                                "Triads": {
+                                    "Major": ["(add9,♯11,♯13)","M(add9,♯11,♯13)","maj(add9,♯11,♯13)","Δ(add9,♯11,♯13)"],
+                                    "Minor": ["m(add9,♯11,♯13)","min(add9,♯11,♯13)","-(add9,♯11,♯13)"],
+                                    "Augmented": ["aug(add9,♯11,♯13)","+(add9,♯11,♯13)"],
+                                    "Diminished": ["dim(add9,♯11,♯13)","o(add9,♯11,♯13)"],
+                                    "Suspended Second": ["sus2(add9,♯11,♯13)"],
+                                    "Suspended Fourth": ["sus(add9,♯11,♯13)","sus4(add9,♯11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯11(add♯13)","M6/♯11(add♯13)","maj6/♯11(add♯13)","Δ6/♯11(add♯13)"],
+                                    "Minor Sixth": ["m6/♯11(add♯13)","min6/♯11(add♯13)","-6/♯11(add♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯♯13","maj♯♯13","Δ♯♯13"],
+                                    "Dominant": ["♯♯13","dom♯♯13"],
+                                    "Dominant Sharp Fifth": ["aug♯♯13","+♯♯13","♯♯13(♯5)","♯♯13(+5)"],
+                                    "Dominant Flat Fifth": ["♯♯13(♭5)","♯♯13(-5)","dom♯♯13(♭5)"],
+                                    "Dominant Suspended Second": ["♯♯13sus2"],
+                                    "Dominant Suspended Fourth": ["♯♯13sus","♯♯13sus4"],
+                                    "Minor Major": ["m(M♯♯13)","min(maj♯♯13)","-Δ♯♯13"],
+                                    "Minor": ["m♯♯13","min♯♯13","-♯♯13"],
+                                    "Half Diminished": ["ø♯♯13","m♯♯13(♭5)","min♯♯13(♭5)","-♯♯13(♭5)","m♯♯13(-5)"],
+                                    "Diminished": ["dim♯♯13","o♯♯13"],
+                                    "Augmented": ["aug♯♯13","+♯♯13","♯♯13(♯5)","♯♯13(+5)"]
+                                }
+                            },
+                            "Flat Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♭9,♯11,♯13)","M(add♭9,♯11,♯13)","maj(add♭9,♯11,♯13)","Δ(add♭9,♯11,♯13)"],
+                                    "Minor": ["m(add♭9,♯11,♯13)","min(add♭9,♯11,♯13)","-(add♭9,♯11,♯13)"],
+                                    "Augmented": ["aug(add♭9,♯11,♯13)","+(add♭9,♯11,♯13)"],
+                                    "Diminished": ["dim(add♭9,♯11,♯13)","o(add♭9,♯11,♯13)"],
+                                    "Suspended Second": ["sus2(add♭9,♯11,♯13)"],
+                                    "Suspended Fourth": ["sus(add♭9,♯11,♯13)","sus4(add♭9,♯11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♭9(add♯11,♯13)","M6/♭9(add♯11,♯13)","maj6/♭9(add♯11,♯13)","Δ6/♭9(add♯11,♯13)"],
+                                    "Minor Sixth": ["m6/♭9(add♯11,♯13)","min6/♭9(add♯11,♯13)","-6/♭9(add♯11,♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13(♭9,♯11)","maj♯13(♭9,♯11)","Δ♯13(♭9,♯11)"],
+                                    "Dominant": ["♯13(♭9,♯11)","dom♯13(♭9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug♯13(♭9,♯11)","+♯13(♭9,♯11)","♯13(♭9,♯11)(♯5)","♯13(♭9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♭9,♯11)(♭5)","♯13(♭9,♯11)(-5)","dom♯13(♭9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["♯13(♭9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["♯13(♭9,♯11)sus","♯13(♭9,♯11)sus4"],
+                                    "Minor Major": ["m(M♯13(♭9,♯11))","min(maj♯13(♭9,♯11))","-Δ♯13(♭9,♯11)"],
+                                    "Minor": ["m♯13(♭9,♯11)","min♯13(♭9,♯11)","-♯13(♭9,♯11)"],
+                                    "Half Diminished": ["ø♯13(♭9,♯11)","m♯13(♭9,♯11)(♭5)","min♯13(♭9,♯11)(♭5)","-♯13(♭9,♯11)(♭5)","m♯13(♭9,♯11)(-5)"],
+                                    "Diminished": ["dim♯13(♭9,♯11)","o♯13(♭9,♯11)"],
+                                    "Augmented": ["aug♯13(♭9,♯11)","+♯13(♭9,♯11)","♯13(♭9,♯11)(♯5)","♯13(♭9,♯11)(+5)"]
+                                }
+                            },
+                            "Sharp Ninth": {
+                                "Triads": {
+                                    "Major": ["(add♯9,♯11,♯13)","M(add♯9,♯11,♯13)","maj(add♯9,♯11,♯13)","Δ(add♯9,♯11,♯13)"],
+                                    "Minor": ["m(add♯9,♯11,♯13)","min(add♯9,♯11,♯13)","-(add♯9,♯11,♯13)"],
+                                    "Augmented": ["aug(add♯9,♯11,♯13)","+(add♯9,♯11,♯13)"],
+                                    "Diminished": ["dim(add♯9,♯11,♯13)","o(add♯9,♯11,♯13)"],
+                                    "Suspended Second": ["sus2(add♯9,♯11,♯13)"],
+                                    "Suspended Fourth": ["sus(add♯9,♯11,♯13)","sus4(add♯9,♯11,♯13)"]
+                                },
+                                "Sixth": {
+                                    "Major Sixth": ["6/♯9(add♯11,♯13)","M6/♯9(add♯11,♯13)","maj6/♯9(add♯11,♯13)","Δ6/♯9(add♯11,♯13)"],
+                                    "Minor Sixth": ["m6/♯9(add♯11,♯13)","min6/♯9(add♯11,♯13)","-6/♯9(add♯11,♯13)"]
+                                },
+                                "Sevenths": {
+                                    "Major": ["M♯13(♯9,♯11)","maj♯13(♯9,♯11)","Δ♯13(♯9,♯11)"],
+                                    "Dominant": ["♯13(♯9,♯11)","dom♯13(♯9,♯11)"],
+                                    "Dominant Sharp Fifth": ["aug♯13(♯9,♯11)","+♯13(♯9,♯11)","♯13(♯9,♯11)(♯5)","♯13(♯9,♯11)(+5)"],
+                                    "Dominant Flat Fifth": ["♯13(♯9,♯11)(♭5)","♯13(♯9,♯11)(-5)","dom♯13(♯9,♯11)(♭5)"],
+                                    "Dominant Suspended Second": ["♯13(♯9,♯11)sus2"],
+                                    "Dominant Suspended Fourth": ["♯13(♯9,♯11)sus","♯13(♯9,♯11)sus4"],
+                                    "Minor Major": ["m(M♯13(♯9,♯11))","min(maj♯13(♯9,♯11))","-Δ♯13(♯9,♯11)"],
+                                    "Minor": ["m♯13(♯9,♯11)","min♯13(♯9,♯11)","-♯13(♯9,♯11)"],
+                                    "Half Diminished": ["ø♯13(♯9,♯11)","m♯13(♯9,♯11)(♭5)","min♯13(♯9,♯11)(♭5)","-♯13(♯9,♯11)(♭5)","m♯13(♯9,♯11)(-5)"],
+                                    "Diminished": ["dim♯13(♯9,♯11)","o♯13(♯9,♯11)"],
+                                    "Augmented": ["aug♯13(♯9,♯11)","+♯13(♯9,♯11)","♯13(♯9,♯11)(♯5)","♯13(♯9,♯11)(+5)"]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

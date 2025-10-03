@@ -1,0 +1,1728 @@
+{
+    "Triads": {
+        "Major": [0,4,7],
+        "Minor": [0,3,7],
+        "Augmented": [0,4,8],
+        "Diminished": [0,3,6],
+        "Suspended Second": [0,2,7],
+        "Suspended Fourth": [0,5,7]
+    },
+    "Sixth": {
+        "Major Sixth": [0,4,7,9],
+        "Minor Sixth": [0,3,7,9]
+    },
+    "Sevenths": {
+        "Major": [0,4,7,11],
+        "Dominant": [0,4,7,10],
+        "Dominant Sharp Fifth" : [0,4,8,10],
+        "Dominant Flat Fifth": [0,4,6,10],
+        "Minor Major": [0,3,7,11],
+        "Minor": [0,3,7,10],
+        "Half Diminished": [0,3,6,10],
+        "Diminished": [0,3,6,9],
+        "Augmented": [0,4,8,10],
+        "Dominant Suspended Second": [0,2,7,10],
+        "Dominant Suspended Fourth": [0,5,7,10]
+    },
+    "Ninths": {
+        "Triads": {
+            "Major": [0,4,7,14],
+            "Minor": [0,3,7,14],
+            "Augmented": [0,4,8,14],
+            "Diminished": [0,3,6,14],
+            "Suspended Second": [0,2,7,14],
+            "Suspended Fourth": [0,5,7,14]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,14],
+            "Minor Sixth": [0,3,7,9,14]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,14],
+            "Dominant": [0,4,7,10,14],
+            "Dominant Sharp Fifth": [0,4,8,10,14],
+            "Dominant Flat Fifth": [0,4,6,10,14],
+            "Minor Major": [0,3,7,11,14],
+            "Minor": [0,3,7,10,14],
+            "Half Diminished": [0,3,6,10,14],
+            "Diminished": [0,3,6,9,14],
+            "Augmented": [0,4,8,10,14],
+            "Dominant Suspended Second": [0,2,7,10,14],
+            "Dominant Suspended Fourth": [0,5,7,10,14]
+        }
+    },
+    "Flat Ninth": {
+        "Triads": {
+            "Major": [0,4,7,13],
+            "Minor": [0,3,7,13],
+            "Augmented": [0,4,8,13],
+            "Diminished": [0,3,6,13],
+            "Suspended Second": [0,2,7,13],
+            "Suspended Fourth": [0,5,7,13]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,13],
+            "Minor Sixth": [0,3,7,9,13]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,13],
+            "Dominant": [0,4,7,10,13],
+            "Dominant Sharp Fifth": [0,4,8,10,13],
+            "Dominant Flat Fifth": [0,4,6,10,13],
+            "Minor Major": [0,3,7,11,13],
+            "Minor": [0,3,7,10,13],
+            "Half Diminished": [0,3,6,10,13],
+            "Diminished": [0,3,6,9,13],
+            "Augmented": [0,4,8,10,13],
+            "Dominant Suspended Second": [0,2,7,10,13],
+            "Dominant Suspended Fourth": [0,5,7,10,13]
+        }
+    },
+    "Sharp Ninth": {
+        "Triads": {
+            "Major": [0,4,7,15],
+            "Minor": [0,3,7,15],
+            "Augmented": [0,4,8,15],
+            "Diminished": [0,3,6,15],
+            "Suspended Second": [0,2,7,15],
+            "Suspended Fourth": [0,5,7,15]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,15],
+            "Minor Sixth": [0,3,7,9,15]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,15],
+            "Dominant": [0,4,7,10,15],
+            "Dominant Sharp Fifth": [0,4,8,10,15],
+            "Dominant Flat Fifth": [0,4,6,10,15],
+            "Minor Major": [0,3,7,11,15],
+            "Minor": [0,3,7,10,15],
+            "Half Diminished": [0,3,6,10,15],
+            "Diminished": [0,3,6,9,15],
+            "Augmented": [0,4,8,10,15],
+            "Dominant Suspended Second": [0,2,7,10,15],
+            "Dominant Suspended Fourth": [0,5,7,10,15]
+        }
+    },
+    "Elevenths": {
+        "Triads": {
+            "Major": [0,4,7,17],
+            "Minor": [0,3,7,17],
+            "Augmented": [0,4,8,17],
+            "Diminished": [0,3,6,17],
+            "Suspended Second": [0,2,7,17],
+            "Suspended Fourth": [0,5,7,17]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,17],
+            "Minor Sixth": [0,3,7,9,17]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,17],
+            "Dominant": [0,4,7,10,17],
+            "Dominant Sharp Fifth" : [0,4,8,10,17],
+            "Dominant Flat Fifth": [0,4,6,10,17],
+            "Minor Major": [0,3,7,11,17],
+            "Minor": [0,3,7,10,17],
+            "Half Diminished": [0,3,6,10,17],
+            "Diminished": [0,3,6,9,17],
+            "Augmented": [0,4,8,10,17],
+            "Dominant Suspended Second": [0,2,7,10,17],
+            "Dominant Suspended Fourth": [0,5,7,10,17]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,17],
+                "Minor": [0,3,7,14,17],
+                "Augmented": [0,4,8,14,17],
+                "Diminished": [0,3,6,14,17],
+                "Suspended Second": [0,2,7,14,17],
+                "Suspended Fourth": [0,5,7,14,17]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,17],
+                "Minor Sixth": [0,3,7,9,14,17]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,17],
+                "Dominant": [0,4,7,10,14,17],
+                "Dominant Sharp Fifth": [0,4,8,10,14,17],
+                "Dominant Flat Fifth": [0,4,6,10,14,17],
+                "Minor Major": [0,3,7,11,14,17],
+                "Minor": [0,3,7,10,14,17],
+                "Half Diminished": [0,3,6,10,14,17],
+                "Diminished": [0,3,6,9,14,17],
+                "Augmented": [0,4,8,10,14,17],
+                "Dominant Suspended Second": [0,2,7,10,14,17],
+                "Dominant Suspended Fourth": [0,5,7,10,14,17]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,17],
+                "Minor": [0,3,7,13,17],
+                "Augmented": [0,4,8,13,17],
+                "Diminished": [0,3,6,13,17],
+                "Suspended Second": [0,2,7,13,17],
+                "Suspended Fourth": [0,5,7,13,17]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,17],
+                "Minor Sixth": [0,3,7,9,13,17]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,17],
+                "Dominant": [0,4,7,10,13,17],
+                "Dominant Sharp Fifth": [0,4,8,10,13,17],
+                "Dominant Flat Fifth": [0,4,6,10,13,17],
+                "Minor Major": [0,3,7,11,13,17],
+                "Minor": [0,3,7,10,13,17],
+                "Half Diminished": [0,3,6,10,13,17],
+                "Diminished": [0,3,6,9,13,17],
+                "Augmented": [0,4,8,10,13,17],
+                "Dominant Suspended Second": [0,2,7,10,13,17],
+                "Dominant Suspended Fourth": [0,5,7,10,13,17]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,17],
+                "Minor": [0,3,7,15,17],
+                "Augmented": [0,4,8,15,17],
+                "Diminished": [0,3,6,15,17],
+                "Suspended Second": [0,2,7,15,17],
+                "Suspended Fourth": [0,5,7,15,17]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,17],
+                "Minor Sixth": [0,3,7,9,15,17]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,17],
+                "Dominant": [0,4,7,10,15,17],
+                "Dominant Sharp Fifth": [0,4,8,10,15,17],
+                "Dominant Flat Fifth": [0,4,6,10,15,17],
+                "Minor Major": [0,3,7,11,15,17],
+                "Minor": [0,3,7,10,15,17],
+                "Half Diminished": [0,3,6,10,15,17],
+                "Diminished": [0,3,6,9,15,17],
+                "Augmented": [0,4,8,10,15,17],
+                "Dominant Suspended Second": [0,2,7,10,15,17],
+                "Dominant Suspended Fourth": [0,5,7,10,15,17]
+            }
+        }
+    },
+    "Flat Eleventh": {
+        "Triads": {
+            "Major": [0,4,7,16],
+            "Minor": [0,3,7,16],
+            "Augmented": [0,4,8,16],
+            "Diminished": [0,3,6,16],
+            "Suspended Second": [0,2,7,16],
+            "Suspended Fourth": [0,5,7,16]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,16],
+            "Minor Sixth": [0,3,7,9,16]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,16],
+            "Dominant": [0,4,7,10,16],
+            "Dominant Sharp Fifth" : [0,4,8,10,16],
+            "Dominant Flat Fifth": [0,4,6,10,16],
+            "Minor Major": [0,3,7,11,16],
+            "Minor": [0,3,7,10,16],
+            "Half Diminished": [0,3,6,10,16],
+            "Diminished": [0,3,6,9,16],
+            "Augmented": [0,4,8,10,16],
+            "Dominant Suspended Second": [0,2,7,10,16],
+            "Dominant Suspended Fourth": [0,5,7,10,16]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,16],
+                "Minor": [0,3,7,14,16],
+                "Augmented": [0,4,8,14,16],
+                "Diminished": [0,3,6,14,16],
+                "Suspended Second": [0,2,7,14,16],
+                "Suspended Fourth": [0,5,7,14,16]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,16],
+                "Minor Sixth": [0,3,7,9,14,16]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,16],
+                "Dominant": [0,4,7,10,14,16],
+                "Dominant Sharp Fifth": [0,4,8,10,14,16],
+                "Dominant Flat Fifth": [0,4,6,10,14,16],
+                "Minor Major": [0,3,7,11,14,16],
+                "Minor": [0,3,7,10,14,16],
+                "Half Diminished": [0,3,6,10,14,16],
+                "Diminished": [0,3,6,9,14,16],
+                "Augmented": [0,4,8,10,14,16],
+                "Dominant Suspended Second": [0,2,7,10,14,16],
+                "Dominant Suspended Fourth": [0,5,7,10,14,16]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,16],
+                "Minor": [0,3,7,13,16],
+                "Augmented": [0,4,8,13,16],
+                "Diminished": [0,3,6,13,16],
+                "Suspended Second": [0,2,7,13,16],
+                "Suspended Fourth": [0,5,7,13,16]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,16],
+                "Minor Sixth": [0,3,7,9,13,16]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,16],
+                "Dominant": [0,4,7,10,13,16],
+                "Dominant Sharp Fifth": [0,4,8,10,13,16],
+                "Dominant Flat Fifth": [0,4,6,10,13,16],
+                "Minor Major": [0,3,7,11,13,16],
+                "Minor": [0,3,7,10,13,16],
+                "Half Diminished": [0,3,6,10,13,16],
+                "Diminished": [0,3,6,9,13,16],
+                "Augmented": [0,4,8,10,13,16],
+                "Dominant Suspended Second": [0,2,7,10,13,16],
+                "Dominant Suspended Fourth": [0,5,7,10,13,16]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,16],
+                "Minor": [0,3,7,15,16],
+                "Augmented": [0,4,8,15,16],
+                "Diminished": [0,3,6,15,16],
+                "Suspended Second": [0,2,7,15,16],
+                "Suspended Fourth": [0,5,7,15,16]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,16],
+                "Minor Sixth": [0,3,7,9,15,16]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,16],
+                "Dominant": [0,4,7,10,15,16],
+                "Dominant Sharp Fifth": [0,4,8,10,15,16],
+                "Dominant Flat Fifth": [0,4,6,10,15,16],
+                "Minor Major": [0,3,7,11,15,16],
+                "Minor": [0,3,7,10,15,16],
+                "Half Diminished": [0,3,6,10,15,16],
+                "Diminished": [0,3,6,9,15,16],
+                "Augmented": [0,4,8,10,15,16],
+                "Dominant Suspended Second": [0,2,7,10,15,16],
+                "Dominant Suspended Fourth": [0,5,7,10,15,16]
+            }
+        }
+    },
+    "Sharp Eleventh": {
+        "Triads": {
+            "Major": [0,4,7,18],
+            "Minor": [0,3,7,18],
+            "Augmented": [0,4,8,18],
+            "Diminished": [0,3,6,18],
+            "Suspended Second": [0,2,7,18],
+            "Suspended Fourth": [0,5,7,18]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,18],
+            "Minor Sixth": [0,3,7,9,18]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,18],
+            "Dominant": [0,4,7,10,18],
+            "Dominant Sharp Fifth" : [0,4,8,10,18],
+            "Dominant Flat Fifth": [0,4,6,10,18],
+            "Minor Major": [0,3,7,11,18],
+            "Minor": [0,3,7,10,18],
+            "Half Diminished": [0,3,6,10,18],
+            "Diminished": [0,3,6,9,18],
+            "Augmented": [0,4,8,10,18],
+            "Dominant Suspended Second": [0,2,7,10,18],
+            "Dominant Suspended Fourth": [0,5,7,10,18]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,18],
+                "Minor": [0,3,7,14,18],
+                "Augmented": [0,4,8,14,18],
+                "Diminished": [0,3,6,14,18],
+                "Suspended Second": [0,2,7,14,18],
+                "Suspended Fourth": [0,5,7,14,18]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,18],
+                "Minor Sixth": [0,3,7,9,14,18]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,18],
+                "Dominant": [0,4,7,10,14,18],
+                "Dominant Sharp Fifth": [0,4,8,10,14,18],
+                "Dominant Flat Fifth": [0,4,6,10,14,18],
+                "Minor Major": [0,3,7,11,14,18],
+                "Minor": [0,3,7,10,14,18],
+                "Half Diminished": [0,3,6,10,14,18],
+                "Diminished": [0,3,6,9,14,18],
+                "Augmented": [0,4,8,10,14,18],
+                "Dominant Suspended Second": [0,2,7,10,14,18],
+                "Dominant Suspended Fourth": [0,5,7,10,14,18]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,18],
+                "Minor": [0,3,7,13,18],
+                "Augmented": [0,4,8,13,18],
+                "Diminished": [0,3,6,13,18],
+                "Suspended Second": [0,2,7,13,18],
+                "Suspended Fourth": [0,5,7,13,18]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,18],
+                "Minor Sixth": [0,3,7,9,13,18]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,18],
+                "Dominant": [0,4,7,10,13,18],
+                "Dominant Sharp Fifth": [0,4,8,10,13,18],
+                "Dominant Flat Fifth": [0,4,6,10,13,18],
+                "Minor Major": [0,3,7,11,13,18],
+                "Minor": [0,3,7,10,13,18],
+                "Half Diminished": [0,3,6,10,13,18],
+                "Diminished": [0,3,6,9,13,18],
+                "Augmented": [0,4,8,10,13,18],
+                "Dominant Suspended Second": [0,2,7,10,13,18],
+                "Dominant Suspended Fourth": [0,5,7,10,13,18]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,18],
+                "Minor": [0,3,7,15,18],
+                "Augmented": [0,4,8,15,18],
+                "Diminished": [0,3,6,15,18],
+                "Suspended Second": [0,2,7,15,18],
+                "Suspended Fourth": [0,5,7,15,18]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,18],
+                "Minor Sixth": [0,3,7,9,15,18]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,18],
+                "Dominant": [0,4,7,10,15,18],
+                "Dominant Sharp Fifth": [0,4,8,10,15,18],
+                "Dominant Flat Fifth": [0,4,6,10,15,18],
+                "Minor Major": [0,3,7,11,15,18],
+                "Minor": [0,3,7,10,15,18],
+                "Half Diminished": [0,3,6,10,15,18],
+                "Diminished": [0,3,6,9,15,18],
+                "Augmented": [0,4,8,10,15,18],
+                "Dominant Suspended Second": [0,2,7,10,15,18],
+                "Dominant Suspended Fourth": [0,5,7,10,15,18]
+            }
+            }
+    },
+    "Thirteenths": {
+        "Triads": {
+            "Major": [0,4,7,21],
+            "Minor": [0,3,7,21],
+            "Augmented": [0,4,8,21],
+            "Diminished": [0,3,6,21],
+            "Suspended Second": [0,2,7,21],
+            "Suspended Fourth": [0,5,7,21]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,21],
+            "Minor Sixth": [0,3,7,9,21]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,21],
+            "Dominant": [0,4,7,10,21],
+            "Dominant Sharp Fifth" : [0,4,8,10,21],
+            "Dominant Flat Fifth": [0,4,6,10,21],
+            "Minor Major": [0,3,7,11,21],
+            "Minor": [0,3,7,10,21],
+            "Half Diminished": [0,3,6,10,21],
+            "Diminished": [0,3,6,9,21],
+            "Augmented": [0,4,8,10,21],
+            "Dominant Suspended Second": [0,2,7,10,21],
+            "Dominant Suspended Fourth": [0,5,7,10,21]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,21],
+                "Minor": [0,3,7,14,21],
+                "Augmented": [0,4,8,14,21],
+                "Diminished": [0,3,6,14,21],
+                "Suspended Second": [0,2,7,14,21],
+                "Suspended Fourth": [0,5,7,14,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,21],
+                "Minor Sixth": [0,3,7,9,14,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,21],
+                "Dominant": [0,4,7,10,14,21],
+                "Dominant Sharp Fifth": [0,4,8,10,14,21],
+                "Dominant Flat Fifth": [0,4,6,10,14,21],
+                "Minor Major": [0,3,7,11,14,21],
+                "Minor": [0,3,7,10,14,21],
+                "Half Diminished": [0,3,6,10,14,21],
+                "Diminished": [0,3,6,9,14,21],
+                "Augmented": [0,4,8,10,14,21],
+                "Dominant Suspended Second": [0,2,7,10,14,21],
+                "Dominant Suspended Fourth": [0,5,7,10,14,21]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,21],
+                "Minor": [0,3,7,13,21],
+                "Augmented": [0,4,8,13,21],
+                "Diminished": [0,3,6,13,21],
+                "Suspended Second": [0,2,7,13,21],
+                "Suspended Fourth": [0,5,7,13,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,21],
+                "Minor Sixth": [0,3,7,9,13,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,21],
+                "Dominant": [0,4,7,10,13,21],
+                "Dominant Sharp Fifth": [0,4,8,10,13,21],
+                "Dominant Flat Fifth": [0,4,6,10,13,21],
+                "Minor Major": [0,3,7,11,13,21],
+                "Minor": [0,3,7,10,13,21],
+                "Half Diminished": [0,3,6,10,13,21],
+                "Diminished": [0,3,6,9,13,21],
+                "Augmented": [0,4,8,10,13,21],
+                "Dominant Suspended Second": [0,2,7,10,13,21],
+                "Dominant Suspended Fourth": [0,5,7,10,13,21]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,21],
+                "Minor": [0,3,7,15,21],
+                "Augmented": [0,4,8,15,21],
+                "Diminished": [0,3,6,15,21],
+                "Suspended Second": [0,2,7,15,21],
+                "Suspended Fourth": [0,5,7,15,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,21],
+                "Minor Sixth": [0,3,7,9,15,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,21],
+                "Dominant": [0,4,7,10,15,21],
+                "Dominant Sharp Fifth": [0,4,8,10,15,21],
+                "Dominant Flat Fifth": [0,4,6,10,15,21],
+                "Minor Major": [0,3,7,11,15,21],
+                "Minor": [0,3,7,10,15,21],
+                "Half Diminished": [0,3,6,10,15,21],
+                "Diminished": [0,3,6,9,15,21],
+                "Augmented": [0,4,8,10,15,21],
+                "Dominant Suspended Second": [0,2,7,10,15,21],
+                "Dominant Suspended Fourth": [0,5,7,10,15,21]
+            }
+        },
+        "Elevenths": {
+            "Triads": {
+                "Major": [0,4,7,17,21],
+                "Minor": [0,3,7,17,21],
+                "Augmented": [0,4,8,17,21],
+                "Diminished": [0,3,6,17,21],
+                "Suspended Second": [0,2,7,17,21],
+                "Suspended Fourth": [0,5,7,17,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,17,21],
+                "Minor Sixth": [0,3,7,9,17,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,17,21],
+                "Dominant": [0,4,7,10,17,21],
+                "Dominant Sharp Fifth" : [0,4,8,10,17,21],
+                "Dominant Flat Fifth": [0,4,6,10,17,21],
+                "Minor Major": [0,3,7,11,17,21],
+                "Minor": [0,3,7,10,17,21],
+                "Half Diminished": [0,3,6,10,17,21],
+                "Diminished": [0,3,6,9,17,21],
+                "Augmented": [0,4,8,10,17,21],
+                "Dominant Suspended Second": [0,2,7,10,17,21],
+                "Dominant Suspended Fourth": [0,5,7,10,17,21]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,17,21],
+                    "Minor": [0,3,7,14,17,21],
+                    "Augmented": [0,4,8,14,17,21],
+                    "Diminished": [0,3,6,14,17,21],
+                    "Suspended Second": [0,2,7,14,17,21],
+                    "Suspended Fourth": [0,5,7,14,17,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,17,21],
+                    "Minor Sixth": [0,3,7,9,14,17,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,17,21],
+                    "Dominant": [0,4,7,10,14,17,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,17,21],
+                    "Dominant Flat Fifth": [0,4,6,10,14,17,21],
+                    "Minor Major": [0,3,7,11,14,17,21],
+                    "Minor": [0,3,7,10,14,17,21],
+                    "Half Diminished": [0,3,6,10,14,17,21],
+                    "Diminished": [0,3,6,9,14,17,21],
+                    "Augmented": [0,4,8,10,14,17,21],
+                    "Dominant Suspended Second": [0,2,7,10,14,17,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,17,21]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,17,21],
+                    "Minor": [0,3,7,13,17,21],
+                    "Augmented": [0,4,8,13,17,21],
+                    "Diminished": [0,3,6,13,17,21],
+                    "Suspended Second": [0,2,7,13,17,21],
+                    "Suspended Fourth": [0,5,7,13,17,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,17,21],
+                    "Minor Sixth": [0,3,7,9,13,17,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,17,21],
+                    "Dominant": [0,4,7,10,13,17,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,17,21],
+                    "Dominant Flat Fifth": [0,4,6,10,13,17,21],
+                    "Minor Major": [0,3,7,11,13,17,21],
+                    "Minor": [0,3,7,10,13,17,21],
+                    "Half Diminished": [0,3,6,10,13,17,21],
+                    "Diminished": [0,3,6,9,13,17,21],
+                    "Augmented": [0,4,8,10,13,17,21],
+                    "Dominant Suspended Second": [0,2,7,10,13,17,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,17,21]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,17,21],
+                    "Minor": [0,3,7,15,17,21],
+                    "Augmented": [0,4,8,15,17,21],
+                    "Diminished": [0,3,6,15,17,21],
+                    "Suspended Second": [0,2,7,15,17,21],
+                    "Suspended Fourth": [0,5,7,15,17,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,17,21],
+                    "Minor Sixth": [0,3,7,9,15,17,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,17,21],
+                    "Dominant": [0,4,7,10,15,17,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,17,21],
+                    "Dominant Flat Fifth": [0,4,6,10,15,17,21],
+                    "Minor Major": [0,3,7,11,15,17,21],
+                    "Minor": [0,3,7,10,15,17,21],
+                    "Half Diminished": [0,3,6,10,15,17,21],
+                    "Diminished": [0,3,6,9,15,17,21],
+                    "Augmented": [0,4,8,10,15,17,21],
+                    "Dominant Suspended Second": [0,2,7,10,15,17,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,17,21]
+                }
+            }
+        },
+        "Flat Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,16,21],
+                "Minor": [0,3,7,16,21],
+                "Augmented": [0,4,8,16,21],
+                "Diminished": [0,3,6,16,21],
+                "Suspended Second": [0,2,7,16,21],
+                "Suspended Fourth": [0,5,7,16,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,16,21],
+                "Minor Sixth": [0,3,7,9,16,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,16,21],
+                "Dominant": [0,4,7,10,16,21],
+                "Dominant Sharp Fifth" : [0,4,8,10,16,21],
+                "Dominant Flat Fifth": [0,4,6,10,16,21],
+                "Minor Major": [0,3,7,11,16,21],
+                "Minor": [0,3,7,10,16,21],
+                "Half Diminished": [0,3,6,10,16,21],
+                "Diminished": [0,3,6,9,16,21],
+                "Augmented": [0,4,8,10,16,21],
+                "Dominant Suspended Second": [0,2,7,10,16,21],
+                "Dominant Suspended Fourth": [0,5,7,10,16,21]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,16,21],
+                    "Minor": [0,3,7,14,16,21],
+                    "Augmented": [0,4,8,14,16,21],
+                    "Diminished": [0,3,6,14,16,21],
+                    "Suspended Second": [0,2,7,14,16,21],
+                    "Suspended Fourth": [0,5,7,14,16,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,16,21],
+                    "Minor Sixth": [0,3,7,9,14,16,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,16,21],
+                    "Dominant": [0,4,7,10,14,16,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,16,21],
+                    "Dominant Flat Fifth": [0,4,6,10,14,16,21],
+                    "Minor Major": [0,3,7,11,14,16,21],
+                    "Minor": [0,3,7,10,14,16,21],
+                    "Half Diminished": [0,3,6,10,14,16,21],
+                    "Diminished": [0,3,6,9,14,16,21],
+                    "Augmented": [0,4,8,10,14,16,21],
+                    "Dominant Suspended Second": [0,2,7,10,14,16,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,16,21]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,16,21],
+                    "Minor": [0,3,7,13,16,21],
+                    "Augmented": [0,4,8,13,16,21],
+                    "Diminished": [0,3,6,13,16,21],
+                    "Suspended Second": [0,2,7,13,16,21],
+                    "Suspended Fourth": [0,5,7,13,16,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,16,21],
+                    "Minor Sixth": [0,3,7,9,13,16,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,16,21],
+                    "Dominant": [0,4,7,10,13,16,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,16,21],
+                    "Dominant Flat Fifth": [0,4,6,10,13,16,21],
+                    "Minor Major": [0,3,7,11,13,16,21],
+                    "Minor": [0,3,7,10,13,16,21],
+                    "Half Diminished": [0,3,6,10,13,16,21],
+                    "Diminished": [0,3,6,9,13,16,21],
+                    "Augmented": [0,4,8,10,13,16,21],
+                    "Dominant Suspended Second": [0,2,7,10,13,16,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,16,21]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,16,21],
+                    "Minor": [0,3,7,15,16,21],
+                    "Augmented": [0,4,8,15,16,21],
+                    "Diminished": [0,3,6,15,16,21],
+                    "Suspended Second": [0,2,7,15,16,21],
+                    "Suspended Fourth": [0,5,7,15,16,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,16,21],
+                    "Minor Sixth": [0,3,7,9,15,16,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,16,21],
+                    "Dominant": [0,4,7,10,15,16,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,16,21],
+                    "Dominant Flat Fifth": [0,4,6,10,15,16,21],
+                    "Minor Major": [0,3,7,11,15,16,21],
+                    "Minor": [0,3,7,10,15,16,21],
+                    "Half Diminished": [0,3,6,10,15,16,21],
+                    "Diminished": [0,3,6,9,15,16,21],
+                    "Augmented": [0,4,8,10,15,16,21],
+                    "Dominant Suspended Second": [0,2,7,10,15,16,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,16,21]
+                }
+            }
+        },
+        "Sharp Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,18,21],
+                "Minor": [0,3,7,18,21],
+                "Augmented": [0,4,8,18,21],
+                "Diminished": [0,3,6,18,21],
+                "Suspended Second": [0,2,7,18,21],
+                "Suspended Fourth": [0,5,7,18,21]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,18,21],
+                "Minor Sixth": [0,3,7,9,18,21]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,18,21],
+                "Dominant": [0,4,7,10,18,21],
+                "Dominant Sharp Fifth" : [0,4,8,10,18,21],
+                "Dominant Flat Fifth": [0,4,6,10,18,21],
+                "Minor Major": [0,3,7,11,18,21],
+                "Minor": [0,3,7,10,18,21],
+                "Half Diminished": [0,3,6,10,18,21],
+                "Diminished": [0,3,6,9,18,21],
+                "Augmented": [0,4,8,10,18,21],
+                "Dominant Suspended Second": [0,2,7,10,18,21],
+                "Dominant Suspended Fourth": [0,5,7,10,18,21]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,18,21],
+                    "Minor": [0,3,7,14,18,21],
+                    "Augmented": [0,4,8,14,18,21],
+                    "Diminished": [0,3,6,14,18,21],
+                    "Suspended Second": [0,2,7,14,18,21],
+                    "Suspended Fourth": [0,5,7,14,18,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,18,21],
+                    "Minor Sixth": [0,3,7,9,14,18,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,18,21],
+                    "Dominant": [0,4,7,10,14,18,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,18,21],
+                    "Dominant Flat Fifth": [0,4,6,10,14,18,21],
+                    "Minor Major": [0,3,7,11,14,18,21],
+                    "Minor": [0,3,7,10,14,18,21],
+                    "Half Diminished": [0,3,6,10,14,18,21],
+                    "Diminished": [0,3,6,9,14,18,21],
+                    "Augmented": [0,4,8,10,14,18,21],
+                    "Dominant Suspended Second": [0,2,7,10,14,18,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,18,21]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,18,21],
+                    "Minor": [0,3,7,13,18,21],
+                    "Augmented": [0,4,8,13,18,21],
+                    "Diminished": [0,3,6,13,18,21],
+                    "Suspended Second": [0,2,7,13,18,21],
+                    "Suspended Fourth": [0,5,7,13,18,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,18,21],
+                    "Minor Sixth": [0,3,7,9,13,18,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,18,21],
+                    "Dominant": [0,4,7,10,13,18,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,18,21],
+                    "Dominant Flat Fifth": [0,4,6,10,13,18,21],
+                    "Minor Major": [0,3,7,11,13,18,21],
+                    "Minor": [0,3,7,10,13,18,21],
+                    "Half Diminished": [0,3,6,10,13,18,21],
+                    "Diminished": [0,3,6,9,13,18,21],
+                    "Augmented": [0,4,8,10,13,18,21],
+                    "Dominant Suspended Second": [0,2,7,10,13,18,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,18,21]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,18,21],
+                    "Minor": [0,3,7,15,18,21],
+                    "Augmented": [0,4,8,15,18,21],
+                    "Diminished": [0,3,6,15,18,21],
+                    "Suspended Second": [0,2,7,15,18,21],
+                    "Suspended Fourth": [0,5,7,15,18,21]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,18,21],
+                    "Minor Sixth": [0,3,7,9,15,18,21]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,18,21],
+                    "Dominant": [0,4,7,10,15,18,21],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,18,21],
+                    "Dominant Flat Fifth": [0,4,6,10,15,18,21],
+                    "Minor Major": [0,3,7,11,15,18,21],
+                    "Minor": [0,3,7,10,15,18,21],
+                    "Half Diminished": [0,3,6,10,15,18,21],
+                    "Diminished": [0,3,6,9,15,18,21],
+                    "Augmented": [0,4,8,10,15,18,21],
+                    "Dominant Suspended Second": [0,2,7,10,15,18,21],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,18,21]
+                }
+            }
+        }
+    },
+    "Flat Thirteenth": {
+        "Triads": {
+            "Major": [0,4,7,20],
+            "Minor": [0,3,7,20],
+            "Augmented": [0,4,8,20],
+            "Diminished": [0,3,6,20],
+            "Suspended Second": [0,2,7,20],
+            "Suspended Fourth": [0,5,7,20]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,20],
+            "Minor Sixth": [0,3,7,9,20]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,20],
+            "Dominant": [0,4,7,10,20],
+            "Dominant Sharp Fifth" : [0,4,8,10,20],
+            "Dominant Flat Fifth": [0,4,6,10,20],
+            "Minor Major": [0,3,7,11,20],
+            "Minor": [0,3,7,10,20],
+            "Half Diminished": [0,3,6,10,20],
+            "Diminished": [0,3,6,9,20],
+            "Augmented": [0,4,8,10,20],
+            "Dominant Suspended Second": [0,2,7,10,20],
+            "Dominant Suspended Fourth": [0,5,7,10,20]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,20],
+                "Minor": [0,3,7,14,20],
+                "Augmented": [0,4,8,14,20],
+                "Diminished": [0,3,6,14,20],
+                "Suspended Second": [0,2,7,14,20],
+                "Suspended Fourth": [0,5,7,14,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,20],
+                "Minor Sixth": [0,3,7,9,14,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,20],
+                "Dominant": [0,4,7,10,14,20],
+                "Dominant Sharp Fifth": [0,4,8,10,14,20],
+                "Dominant Flat Fifth": [0,4,6,10,14,20],
+                "Minor Major": [0,3,7,11,14,20],
+                "Minor": [0,3,7,10,14,20],
+                "Half Diminished": [0,3,6,10,14,20],
+                "Diminished": [0,3,6,9,14,20],
+                "Augmented": [0,4,8,10,14,20],
+                "Dominant Suspended Second": [0,2,7,10,14,20],
+                "Dominant Suspended Fourth": [0,5,7,10,14,20]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,20],
+                "Minor": [0,3,7,13,20],
+                "Augmented": [0,4,8,13,20],
+                "Diminished": [0,3,6,13,20],
+                "Suspended Second": [0,2,7,13,20],
+                "Suspended Fourth": [0,5,7,13,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,20],
+                "Minor Sixth": [0,3,7,9,13,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,20],
+                "Dominant": [0,4,7,10,13,20],
+                "Dominant Sharp Fifth": [0,4,8,10,13,20],
+                "Dominant Flat Fifth": [0,4,6,10,13,20],
+                "Minor Major": [0,3,7,11,13,20],
+                "Minor": [0,3,7,10,13,20],
+                "Half Diminished": [0,3,6,10,13,20],
+                "Diminished": [0,3,6,9,13,20],
+                "Augmented": [0,4,8,10,13,20],
+                "Dominant Suspended Second": [0,2,7,10,13,20],
+                "Dominant Suspended Fourth": [0,5,7,10,13,20]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,20],
+                "Minor": [0,3,7,15,20],
+                "Augmented": [0,4,8,15,20],
+                "Diminished": [0,3,6,15,20],
+                "Suspended Second": [0,2,7,15,20],
+                "Suspended Fourth": [0,5,7,15,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,20],
+                "Minor Sixth": [0,3,7,9,15,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,20],
+                "Dominant": [0,4,7,10,15,20],
+                "Dominant Sharp Fifth": [0,4,8,10,15,20],
+                "Dominant Flat Fifth": [0,4,6,10,15,20],
+                "Minor Major": [0,3,7,11,15,20],
+                "Minor": [0,3,7,10,15,20],
+                "Half Diminished": [0,3,6,10,15,20],
+                "Diminished": [0,3,6,9,15,20],
+                "Augmented": [0,4,8,10,15,20],
+                "Dominant Suspended Second": [0,2,7,10,15,20],
+                "Dominant Suspended Fourth": [0,5,7,10,15,20]
+            }
+        },
+        "Elevenths": {
+            "Triads": {
+                "Major": [0,4,7,17,20],
+                "Minor": [0,3,7,17,20],
+                "Augmented": [0,4,8,17,20],
+                "Diminished": [0,3,6,17,20],
+                "Suspended Second": [0,2,7,17,20],
+                "Suspended Fourth": [0,5,7,17,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,17,20],
+                "Minor Sixth": [0,3,7,9,17,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,17,20],
+                "Dominant": [0,4,7,10,17,20],
+                "Dominant Sharp Fifth" : [0,4,8,10,17,20],
+                "Dominant Flat Fifth": [0,4,6,10,17,20],
+                "Minor Major": [0,3,7,11,17,20],
+                "Minor": [0,3,7,10,17,20],
+                "Half Diminished": [0,3,6,10,17,20],
+                "Diminished": [0,3,6,9,17,20],
+                "Augmented": [0,4,8,10,17,20],
+                "Dominant Suspended Second": [0,2,7,10,17,20],
+                "Dominant Suspended Fourth": [0,5,7,10,17,20]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,17,20],
+                    "Minor": [0,3,7,14,17,20],
+                    "Augmented": [0,4,8,14,17,20],
+                    "Diminished": [0,3,6,14,17,20],
+                    "Suspended Second": [0,2,7,14,17,20],
+                    "Suspended Fourth": [0,5,7,14,17,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,17,20],
+                    "Minor Sixth": [0,3,7,9,14,17,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,17,20],
+                    "Dominant": [0,4,7,10,14,17,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,17,20],
+                    "Dominant Flat Fifth": [0,4,6,10,14,17,20],
+                    "Minor Major": [0,3,7,11,14,17,20],
+                    "Minor": [0,3,7,10,14,17,20],
+                    "Half Diminished": [0,3,6,10,14,17,20],
+                    "Diminished": [0,3,6,9,14,17,20],
+                    "Augmented": [0,4,8,10,14,17,20],
+                    "Dominant Suspended Second": [0,2,7,10,14,17,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,17,20]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,17,20],
+                    "Minor": [0,3,7,13,17,20],
+                    "Augmented": [0,4,8,13,17,20],
+                    "Diminished": [0,3,6,13,17,20],
+                    "Suspended Second": [0,2,7,13,17,20],
+                    "Suspended Fourth": [0,5,7,13,17,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,17,20],
+                    "Minor Sixth": [0,3,7,9,13,17,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,17,20],
+                    "Dominant": [0,4,7,10,13,17,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,17,20],
+                    "Dominant Flat Fifth": [0,4,6,10,13,17,20],
+                    "Minor Major": [0,3,7,11,13,17,20],
+                    "Minor": [0,3,7,10,13,17,20],
+                    "Half Diminished": [0,3,6,10,13,17,20],
+                    "Diminished": [0,3,6,9,13,17,20],
+                    "Augmented": [0,4,8,10,13,17,20],
+                    "Dominant Suspended Second": [0,2,7,10,13,17,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,17,20]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,17,20],
+                    "Minor": [0,3,7,15,17,20],
+                    "Augmented": [0,4,8,15,17,20],
+                    "Diminished": [0,3,6,15,17,20],
+                    "Suspended Second": [0,2,7,15,17,20],
+                    "Suspended Fourth": [0,5,7,15,17,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,17,20],
+                    "Minor Sixth": [0,3,7,9,15,17,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,17,20],
+                    "Dominant": [0,4,7,10,15,17,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,17,20],
+                    "Dominant Flat Fifth": [0,4,6,10,15,17,20],
+                    "Minor Major": [0,3,7,11,15,17,20],
+                    "Minor": [0,3,7,10,15,17,20],
+                    "Half Diminished": [0,3,6,10,15,17,20],
+                    "Diminished": [0,3,6,9,15,17,20],
+                    "Augmented": [0,4,8,10,15,17,20],
+                    "Dominant Suspended Second": [0,2,7,10,15,17,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,17,20]
+                }
+            }
+        },
+        "Flat Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,16,20],
+                "Minor": [0,3,7,16,20],
+                "Augmented": [0,4,8,16,20],
+                "Diminished": [0,3,6,16,20],
+                "Suspended Second": [0,2,7,16,20],
+                "Suspended Fourth": [0,5,7,16,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,16,20],
+                "Minor Sixth": [0,3,7,9,16,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,16,20],
+                "Dominant": [0,4,7,10,16,20],
+                "Dominant Sharp Fifth" : [0,4,8,10,16,20],
+                "Dominant Flat Fifth": [0,4,6,10,16,20],
+                "Minor Major": [0,3,7,11,16,20],
+                "Minor": [0,3,7,10,16,20],
+                "Half Diminished": [0,3,6,10,16,20],
+                "Diminished": [0,3,6,9,16,20],
+                "Augmented": [0,4,8,10,16,20],
+                "Dominant Suspended Second": [0,2,7,10,16,20],
+                "Dominant Suspended Fourth": [0,5,7,10,16,20]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,16,20],
+                    "Minor": [0,3,7,14,16,20],
+                    "Augmented": [0,4,8,14,16,20],
+                    "Diminished": [0,3,6,14,16,20],
+                    "Suspended Second": [0,2,7,14,16,20],
+                    "Suspended Fourth": [0,5,7,14,16,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,16,20],
+                    "Minor Sixth": [0,3,7,9,14,16,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,16,20],
+                    "Dominant": [0,4,7,10,14,16,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,16,20],
+                    "Dominant Flat Fifth": [0,4,6,10,14,16,20],
+                    "Minor Major": [0,3,7,11,14,16,20],
+                    "Minor": [0,3,7,10,14,16,20],
+                    "Half Diminished": [0,3,6,10,14,16,20],
+                    "Diminished": [0,3,6,9,14,16,20],
+                    "Augmented": [0,4,8,10,14,16,20],
+                    "Dominant Suspended Second": [0,2,7,10,14,16,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,16,20]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,16,20],
+                    "Minor": [0,3,7,13,16,20],
+                    "Augmented": [0,4,8,13,16,20],
+                    "Diminished": [0,3,6,13,16,20],
+                    "Suspended Second": [0,2,7,13,16,20],
+                    "Suspended Fourth": [0,5,7,13,16,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,16,20],
+                    "Minor Sixth": [0,3,7,9,13,16,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,16,20],
+                    "Dominant": [0,4,7,10,13,16,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,16,20],
+                    "Dominant Flat Fifth": [0,4,6,10,13,16,20],
+                    "Minor Major": [0,3,7,11,13,16,20],
+                    "Minor": [0,3,7,10,13,16,20],
+                    "Half Diminished": [0,3,6,10,13,16,20],
+                    "Diminished": [0,3,6,9,13,16,20],
+                    "Augmented": [0,4,8,10,13,16,20],
+                    "Dominant Suspended Second": [0,2,7,10,13,16,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,16,20]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,16,20],
+                    "Minor": [0,3,7,15,16,20],
+                    "Augmented": [0,4,8,15,16,20],
+                    "Diminished": [0,3,6,15,16,20],
+                    "Suspended Second": [0,2,7,15,16,20],
+                    "Suspended Fourth": [0,5,7,15,16,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,16,20],
+                    "Minor Sixth": [0,3,7,9,15,16,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,16,20],
+                    "Dominant": [0,4,7,10,15,16,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,16,20],
+                    "Dominant Flat Fifth": [0,4,6,10,15,16,20],
+                    "Minor Major": [0,3,7,11,15,16,20],
+                    "Minor": [0,3,7,10,15,16,20],
+                    "Half Diminished": [0,3,6,10,15,16,20],
+                    "Diminished": [0,3,6,9,15,16,20],
+                    "Augmented": [0,4,8,10,15,16,20],
+                    "Dominant Suspended Second": [0,2,7,10,15,16,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,16,20]
+                }
+            }
+        },
+        "Sharp Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,18,20],
+                "Minor": [0,3,7,18,20],
+                "Augmented": [0,4,8,18,20],
+                "Diminished": [0,3,6,18,20],
+                "Suspended Second": [0,2,7,18,20],
+                "Suspended Fourth": [0,5,7,18,20]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,18,20],
+                "Minor Sixth": [0,3,7,9,18,20]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,18,20],
+                "Dominant": [0,4,7,10,18,20],
+                "Dominant Sharp Fifth" : [0,4,8,10,18,20],
+                "Dominant Flat Fifth": [0,4,6,10,18,20],
+                "Minor Major": [0,3,7,11,18,20],
+                "Minor": [0,3,7,10,18,20],
+                "Half Diminished": [0,3,6,10,18,20],
+                "Diminished": [0,3,6,9,18,20],
+                "Augmented": [0,4,8,10,18,20],
+                "Dominant Suspended Second": [0,2,7,10,18,20],
+                "Dominant Suspended Fourth": [0,5,7,10,18,20]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,18,20],
+                    "Minor": [0,3,7,14,18,20],
+                    "Augmented": [0,4,8,14,18,20],
+                    "Diminished": [0,3,6,14,18,20],
+                    "Suspended Second": [0,2,7,14,18,20],
+                    "Suspended Fourth": [0,5,7,14,18,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,18,20],
+                    "Minor Sixth": [0,3,7,9,14,18,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,18,20],
+                    "Dominant": [0,4,7,10,14,18,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,18,20],
+                    "Dominant Flat Fifth": [0,4,6,10,14,18,20],
+                    "Minor Major": [0,3,7,11,14,18,20],
+                    "Minor": [0,3,7,10,14,18,20],
+                    "Half Diminished": [0,3,6,10,14,18,20],
+                    "Diminished": [0,3,6,9,14,18,20],
+                    "Augmented": [0,4,8,10,14,18,20],
+                    "Dominant Suspended Second": [0,2,7,10,14,18,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,18,20]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,18,20],
+                    "Minor": [0,3,7,13,18,20],
+                    "Augmented": [0,4,8,13,18,20],
+                    "Diminished": [0,3,6,13,18,20],
+                    "Suspended Second": [0,2,7,13,18,20],
+                    "Suspended Fourth": [0,5,7,13,18,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,18,20],
+                    "Minor Sixth": [0,3,7,9,13,18,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,18,20],
+                    "Dominant": [0,4,7,10,13,18,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,18,20],
+                    "Dominant Flat Fifth": [0,4,6,10,13,18,20],
+                    "Minor Major": [0,3,7,11,13,18,20],
+                    "Minor": [0,3,7,10,13,18,20],
+                    "Half Diminished": [0,3,6,10,13,18,20],
+                    "Diminished": [0,3,6,9,13,18,20],
+                    "Augmented": [0,4,8,10,13,18,20],
+                    "Dominant Suspended Second": [0,2,7,10,13,18,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,18,20]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,18,20],
+                    "Minor": [0,3,7,15,18,20],
+                    "Augmented": [0,4,8,15,18,20],
+                    "Diminished": [0,3,6,15,18,20],
+                    "Suspended Second": [0,2,7,15,18,20],
+                    "Suspended Fourth": [0,5,7,15,18,20]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,18,20],
+                    "Minor Sixth": [0,3,7,9,15,18,20]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,18,20],
+                    "Dominant": [0,4,7,10,15,18,20],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,18,20],
+                    "Dominant Flat Fifth": [0,4,6,10,15,18,20],
+                    "Minor Major": [0,3,7,11,15,18,20],
+                    "Minor": [0,3,7,10,15,18,20],
+                    "Half Diminished": [0,3,6,10,15,18,20],
+                    "Diminished": [0,3,6,9,15,18,20],
+                    "Augmented": [0,4,8,10,15,18,20],
+                    "Dominant Suspended Second": [0,2,7,10,15,18,20],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,18,20]
+                }
+            }
+        }
+    },
+    "Sharp Thirteenth": {
+        "Triads": {
+            "Major": [0,4,7,22],
+            "Minor": [0,3,7,22],
+            "Augmented": [0,4,8,22],
+            "Diminished": [0,3,6,22],
+            "Suspended Second": [0,2,7,22],
+            "Suspended Fourth": [0,5,7,22]
+        },
+        "Sixth": {
+            "Major Sixth": [0,4,7,9,22],
+            "Minor Sixth": [0,3,7,9,22]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11,22],
+            "Dominant": [0,4,7,10,22],
+            "Dominant Sharp Fifth" : [0,4,8,10,22],
+            "Dominant Flat Fifth": [0,4,6,10,22],
+            "Minor Major": [0,3,7,11,22],
+            "Minor": [0,3,7,10,22],
+            "Half Diminished": [0,3,6,10,22],
+            "Diminished": [0,3,6,9,22],
+            "Augmented": [0,4,8,10,22],
+            "Dominant Suspended Second": [0,2,7,10,22],
+            "Dominant Suspended Fourth": [0,5,7,10,22]
+        },
+        "Ninths": {
+            "Triads": {
+                "Major": [0,4,7,14,22],
+                "Minor": [0,3,7,14,22],
+                "Augmented": [0,4,8,14,22],
+                "Diminished": [0,3,6,14,22],
+                "Suspended Second": [0,2,7,14,22],
+                "Suspended Fourth": [0,5,7,14,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,14,22],
+                "Minor Sixth": [0,3,7,9,14,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,14,22],
+                "Dominant": [0,4,7,10,14,22],
+                "Dominant Sharp Fifth": [0,4,8,10,14,22],
+                "Dominant Flat Fifth": [0,4,6,10,14,22],
+                "Minor Major": [0,3,7,11,14,22],
+                "Minor": [0,3,7,10,14,22],
+                "Half Diminished": [0,3,6,10,14,22],
+                "Diminished": [0,3,6,9,14,22],
+                "Augmented": [0,4,8,10,14,22],
+                "Dominant Suspended Second": [0,2,7,10,14,22],
+                "Dominant Suspended Fourth": [0,5,7,10,14,22]
+            }
+        },
+        "Flat Ninth": {
+            "Triads": {
+                "Major": [0,4,7,13,22],
+                "Minor": [0,3,7,13,22],
+                "Augmented": [0,4,8,13,22],
+                "Diminished": [0,3,6,13,22],
+                "Suspended Second": [0,2,7,13,22],
+                "Suspended Fourth": [0,5,7,13,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,13,22],
+                "Minor Sixth": [0,3,7,9,13,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,13,22],
+                "Dominant": [0,4,7,10,13,22],
+                "Dominant Sharp Fifth": [0,4,8,10,13,22],
+                "Dominant Flat Fifth": [0,4,6,10,13,22],
+                "Minor Major": [0,3,7,11,13,22],
+                "Minor": [0,3,7,10,13,22],
+                "Half Diminished": [0,3,6,10,13,22],
+                "Diminished": [0,3,6,9,13,22],
+                "Augmented": [0,4,8,10,13,22],
+                "Dominant Suspended Second": [0,2,7,10,13,22],
+                "Dominant Suspended Fourth": [0,5,7,10,13,22]
+            }
+        },
+        "Sharp Ninth": {
+            "Triads": {
+                "Major": [0,4,7,15,22],
+                "Minor": [0,3,7,15,22],
+                "Augmented": [0,4,8,15,22],
+                "Diminished": [0,3,6,15,22],
+                "Suspended Second": [0,2,7,15,22],
+                "Suspended Fourth": [0,5,7,15,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,15,22],
+                "Minor Sixth": [0,3,7,9,15,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,15,22],
+                "Dominant": [0,4,7,10,15,22],
+                "Dominant Sharp Fifth": [0,4,8,10,15,22],
+                "Dominant Flat Fifth": [0,4,6,10,15,22],
+                "Minor Major": [0,3,7,11,15,22],
+                "Minor": [0,3,7,10,15,22],
+                "Half Diminished": [0,3,6,10,15,22],
+                "Diminished": [0,3,6,9,15,22],
+                "Augmented": [0,4,8,10,15,22],
+                "Dominant Suspended Second": [0,2,7,10,15,22],
+                "Dominant Suspended Fourth": [0,5,7,10,15,22]
+            }
+        },
+        "Elevenths": {
+            "Triads": {
+                "Major": [0,4,7,17,22],
+                "Minor": [0,3,7,17,22],
+                "Augmented": [0,4,8,17,22],
+                "Diminished": [0,3,6,17,22],
+                "Suspended Second": [0,2,7,17,22],
+                "Suspended Fourth": [0,5,7,17,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,17,22],
+                "Minor Sixth": [0,3,7,9,17,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,17,22],
+                "Dominant": [0,4,7,10,17,22],
+                "Dominant Sharp Fifth" : [0,4,8,10,17,22],
+                "Dominant Flat Fifth": [0,4,6,10,17,22],
+                "Minor Major": [0,3,7,11,17,22],
+                "Minor": [0,3,7,10,17,22],
+                "Half Diminished": [0,3,6,10,17,22],
+                "Diminished": [0,3,6,9,17,22],
+                "Augmented": [0,4,8,10,17,22],
+                "Dominant Suspended Second": [0,2,7,10,17,22],
+                "Dominant Suspended Fourth": [0,5,7,10,17,22]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,17,22],
+                    "Minor": [0,3,7,14,17,22],
+                    "Augmented": [0,4,8,14,17,22],
+                    "Diminished": [0,3,6,14,17,22],
+                    "Suspended Second": [0,2,7,14,17,22],
+                    "Suspended Fourth": [0,5,7,14,17,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,17,22],
+                    "Minor Sixth": [0,3,7,9,14,17,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,17,22],
+                    "Dominant": [0,4,7,10,14,17,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,17,22],
+                    "Dominant Flat Fifth": [0,4,6,10,14,17,22],
+                    "Minor Major": [0,3,7,11,14,17,22],
+                    "Minor": [0,3,7,10,14,17,22],
+                    "Half Diminished": [0,3,6,10,14,17,22],
+                    "Diminished": [0,3,6,9,14,17,22],
+                    "Augmented": [0,4,8,10,14,17,22],
+                    "Dominant Suspended Second": [0,2,7,10,14,17,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,17,22]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,17,22],
+                    "Minor": [0,3,7,13,17,22],
+                    "Augmented": [0,4,8,13,17,22],
+                    "Diminished": [0,3,6,13,17,22],
+                    "Suspended Second": [0,2,7,13,17,22],
+                    "Suspended Fourth": [0,5,7,13,17,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,17,22],
+                    "Minor Sixth": [0,3,7,9,13,17,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,17,22],
+                    "Dominant": [0,4,7,10,13,17,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,17,22],
+                    "Dominant Flat Fifth": [0,4,6,10,13,17,22],
+                    "Minor Major": [0,3,7,11,13,17,22],
+                    "Minor": [0,3,7,10,13,17,22],
+                    "Half Diminished": [0,3,6,10,13,17,22],
+                    "Diminished": [0,3,6,9,13,17,22],
+                    "Augmented": [0,4,8,10,13,17,22],
+                    "Dominant Suspended Second": [0,2,7,10,13,17,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,17,22]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,17,22],
+                    "Minor": [0,3,7,15,17,22],
+                    "Augmented": [0,4,8,15,17,22],
+                    "Diminished": [0,3,6,15,17,22],
+                    "Suspended Second": [0,2,7,15,17,22],
+                    "Suspended Fourth": [0,5,7,15,17,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,17,22],
+                    "Minor Sixth": [0,3,7,9,15,17,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,17,22],
+                    "Dominant": [0,4,7,10,15,17,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,17,22],
+                    "Dominant Flat Fifth": [0,4,6,10,15,17,22],
+                    "Minor Major": [0,3,7,11,15,17,22],
+                    "Minor": [0,3,7,10,15,17,22],
+                    "Half Diminished": [0,3,6,10,15,17,22],
+                    "Diminished": [0,3,6,9,15,17,22],
+                    "Augmented": [0,4,8,10,15,17,22],
+                    "Dominant Suspended Second": [0,2,7,10,15,17,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,17,22]
+                }
+            }
+        },
+        "Flat Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,16,22],
+                "Minor": [0,3,7,16,22],
+                "Augmented": [0,4,8,16,22],
+                "Diminished": [0,3,6,16,22],
+                "Suspended Second": [0,2,7,16,22],
+                "Suspended Fourth": [0,5,7,16,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,16,22],
+                "Minor Sixth": [0,3,7,9,16,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,16,22],
+                "Dominant": [0,4,7,10,16,22],
+                "Dominant Sharp Fifth" : [0,4,8,10,16,22],
+                "Dominant Flat Fifth": [0,4,6,10,16,22],
+                "Minor Major": [0,3,7,11,16,22],
+                "Minor": [0,3,7,10,16,22],
+                "Half Diminished": [0,3,6,10,16,22],
+                "Diminished": [0,3,6,9,16,22],
+                "Augmented": [0,4,8,10,16,22],
+                "Dominant Suspended Second": [0,2,7,10,16,22],
+                "Dominant Suspended Fourth": [0,5,7,10,16,22]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,16,22],
+                    "Minor": [0,3,7,14,16,22],
+                    "Augmented": [0,4,8,14,16,22],
+                    "Diminished": [0,3,6,14,16,22],
+                    "Suspended Second": [0,2,7,14,16,22],
+                    "Suspended Fourth": [0,5,7,14,16,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,16,22],
+                    "Minor Sixth": [0,3,7,9,14,16,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,16,22],
+                    "Dominant": [0,4,7,10,14,16,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,16,22],
+                    "Dominant Flat Fifth": [0,4,6,10,14,16,22],
+                    "Minor Major": [0,3,7,11,14,16,22],
+                    "Minor": [0,3,7,10,14,16,22],
+                    "Half Diminished": [0,3,6,10,14,16,22],
+                    "Diminished": [0,3,6,9,14,16,22],
+                    "Augmented": [0,4,8,10,14,16,22],
+                    "Dominant Suspended Second": [0,2,7,10,14,16,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,16,22]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,16,22],
+                    "Minor": [0,3,7,13,16,22],
+                    "Augmented": [0,4,8,13,16,22],
+                    "Diminished": [0,3,6,13,16,22],
+                    "Suspended Second": [0,2,7,13,16,22],
+                    "Suspended Fourth": [0,5,7,13,16,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,16,22],
+                    "Minor Sixth": [0,3,7,9,13,16,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,16,22],
+                    "Dominant": [0,4,7,10,13,16,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,16,22],
+                    "Dominant Flat Fifth": [0,4,6,10,13,16,22],
+                    "Minor Major": [0,3,7,11,13,16,22],
+                    "Minor": [0,3,7,10,13,16,22],
+                    "Half Diminished": [0,3,6,10,13,16,22],
+                    "Diminished": [0,3,6,9,13,16,22],
+                    "Augmented": [0,4,8,10,13,16,22],
+                    "Dominant Suspended Second": [0,2,7,10,13,16,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,16,22]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,16,22],
+                    "Minor": [0,3,7,15,16,22],
+                    "Augmented": [0,4,8,15,16,22],
+                    "Diminished": [0,3,6,15,16,22],
+                    "Suspended Second": [0,2,7,15,16,22],
+                    "Suspended Fourth": [0,5,7,15,16,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,16,22],
+                    "Minor Sixth": [0,3,7,9,15,16,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,16,22],
+                    "Dominant": [0,4,7,10,15,16,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,16,22],
+                    "Dominant Flat Fifth": [0,4,6,10,15,16,22],
+                    "Minor Major": [0,3,7,11,15,16,22],
+                    "Minor": [0,3,7,10,15,16,22],
+                    "Half Diminished": [0,3,6,10,15,16,22],
+                    "Diminished": [0,3,6,9,15,16,22],
+                    "Augmented": [0,4,8,10,15,16,22],
+                    "Dominant Suspended Second": [0,2,7,10,15,16,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,16,22]
+                }
+            }
+        },
+        "Sharp Eleventh": {
+            "Triads": {
+                "Major": [0,4,7,18,22],
+                "Minor": [0,3,7,18,22],
+                "Augmented": [0,4,8,18,22],
+                "Diminished": [0,3,6,18,22],
+                "Suspended Second": [0,2,7,18,22],
+                "Suspended Fourth": [0,5,7,18,22]
+            },
+            "Sixth": {
+                "Major Sixth": [0,4,7,9,18,22],
+                "Minor Sixth": [0,3,7,9,18,22]
+            },
+            "Sevenths": {
+                "Major": [0,4,7,11,18,22],
+                "Dominant": [0,4,7,10,18,22],
+                "Dominant Sharp Fifth" : [0,4,8,10,18,22],
+                "Dominant Flat Fifth": [0,4,6,10,18,22],
+                "Minor Major": [0,3,7,11,18,22],
+                "Minor": [0,3,7,10,18,22],
+                "Half Diminished": [0,3,6,10,18,22],
+                "Diminished": [0,3,6,9,18,22],
+                "Augmented": [0,4,8,10,18,22],
+                "Dominant Suspended Second": [0,2,7,10,18,22],
+                "Dominant Suspended Fourth": [0,5,7,10,18,22]
+            },
+            "Ninths": {
+                "Triads": {
+                    "Major": [0,4,7,14,18,22],
+                    "Minor": [0,3,7,14,18,22],
+                    "Augmented": [0,4,8,14,18,22],
+                    "Diminished": [0,3,6,14,18,22],
+                    "Suspended Second": [0,2,7,14,18,22],
+                    "Suspended Fourth": [0,5,7,14,18,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,14,18,22],
+                    "Minor Sixth": [0,3,7,9,14,18,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,14,18,22],
+                    "Dominant": [0,4,7,10,14,18,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,14,18,22],
+                    "Dominant Flat Fifth": [0,4,6,10,14,18,22],
+                    "Minor Major": [0,3,7,11,14,18,22],
+                    "Minor": [0,3,7,10,14,18,22],
+                    "Half Diminished": [0,3,6,10,14,18,22],
+                    "Diminished": [0,3,6,9,14,18,22],
+                    "Augmented": [0,4,8,10,14,18,22],
+                    "Dominant Suspended Second": [0,2,7,10,14,18,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,14,18,22]
+                }
+            },
+            "Flat Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,13,18,22],
+                    "Minor": [0,3,7,13,18,22],
+                    "Augmented": [0,4,8,13,18,22],
+                    "Diminished": [0,3,6,13,18,22],
+                    "Suspended Second": [0,2,7,13,18,22],
+                    "Suspended Fourth": [0,5,7,13,18,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,13,18,22],
+                    "Minor Sixth": [0,3,7,9,13,18,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,13,18,22],
+                    "Dominant": [0,4,7,10,13,18,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,13,18,22],
+                    "Dominant Flat Fifth": [0,4,6,10,13,18,22],
+                    "Minor Major": [0,3,7,11,13,18,22],
+                    "Minor": [0,3,7,10,13,18,22],
+                    "Half Diminished": [0,3,6,10,13,18,22],
+                    "Diminished": [0,3,6,9,13,18,22],
+                    "Augmented": [0,4,8,10,13,18,22],
+                    "Dominant Suspended Second": [0,2,7,10,13,18,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,13,18,22]
+                }
+            },
+            "Sharp Ninth": {
+                "Triads": {
+                    "Major": [0,4,7,15,18,22],
+                    "Minor": [0,3,7,15,18,22],
+                    "Augmented": [0,4,8,15,18,22],
+                    "Diminished": [0,3,6,15,18,22],
+                    "Suspended Second": [0,2,7,15,18,22],
+                    "Suspended Fourth": [0,5,7,15,18,22]
+                },
+                "Sixth": {
+                    "Major Sixth": [0,4,7,9,15,18,22],
+                    "Minor Sixth": [0,3,7,9,15,18,22]
+                },
+                "Sevenths": {
+                    "Major": [0,4,7,11,15,18,22],
+                    "Dominant": [0,4,7,10,15,18,22],
+                    "Dominant Sharp Fifth": [0,4,8,10,15,18,22],
+                    "Dominant Flat Fifth": [0,4,6,10,15,18,22],
+                    "Minor Major": [0,3,7,11,15,18,22],
+                    "Minor": [0,3,7,10,15,18,22],
+                    "Half Diminished": [0,3,6,10,15,18,22],
+                    "Diminished": [0,3,6,9,15,18,22],
+                    "Augmented": [0,4,8,10,15,18,22],
+                    "Dominant Suspended Second": [0,2,7,10,15,18,22],
+                    "Dominant Suspended Fourth": [0,5,7,10,15,18,22]
+                }
+            }
+        }
+    }
+}
