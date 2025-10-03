@@ -9,8 +9,8 @@ It is a work in progress.
 - Can also identify what scale is being played if the user holds down all 8 keys in the scale
 
 ## Functionality to be added
-- [] Add sounds to be played when user plays any note
-- [] Add GUI
-- [] Incorporate additional chords
-- [] Add fingering techniques
-- [] Clean up code
+- [ ] Add sounds to be played when user plays any note
+- [ ] Add GUI
+- [ ] Incorporate additional chords
+- [ ] Add fingering techniques
+- [ ] Clean up code
