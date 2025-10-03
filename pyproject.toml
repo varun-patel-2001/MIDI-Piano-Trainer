@@ -1,5 +1,5 @@
 [project]
-name = "MIDI Piano Trainer"
+name = "MIDI-Piano-Trainer"
 version = "0.1.0"
 description = "MIDI based piano trainer"
 readme = "README.md"
