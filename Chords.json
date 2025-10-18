@@ -5,11 +5,15 @@
         "Augmented": [0,4,8],
         "Diminished": [0,3,6],
         "Suspended Second": [0,2,7],
-        "Suspended Fourth": [0,5,7]
+        "Suspended Fourth": [0,5,7],
+        "Minor Augmented Fifth": [0,3,8],
+        "Major Diminished Fifth": [0,4,6]
     },
     "Sixth": {
-        "Major Sixth": [0,4,7,9],
-        "Minor Sixth": [0,3,7,9]
+        "Major": [0,4,7,9],
+        "Minor": [0,3,7,9],
+        "Major Augmented Fifth": [0,4,8,9],
+        "Minor Augmented Fifth": [0,3,8,9]
     },
     "Sevenths": {
         "Major": [0,4,7,11],
@@ -18,6 +22,7 @@
         "Dominant Flat Fifth": [0,4,6,10],
         "Minor Major": [0,3,7,11],
         "Minor": [0,3,7,10],
+        "Minor Augmented Fifth": [0,3,8,10],
         "Half Diminished": [0,3,6,10],
         "Diminished": [0,3,6,9],
         "Augmented": [0,4,8,10],

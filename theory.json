@@ -1,23 +1,19 @@
 {
     "Midi Conversion": {
         "A": 21,
-        "A♯": 22,
-        "B♭": 22,
+        "A♯ or B♭": 22,
         "B": 23,
         "C": 24,
-        "C♯": 25,
-        "D♭": 25,
+        "C♯ or D♭": 25,
         "D": 26,
-        "D♯": 27,
-        "E♭": 27,
+        "D♯ or E♭": 27,
         "E": 28,
         "F": 29,
-        "F♯": 30,
-        "G♭": 30,
+        "F♯ or G♭": 30,
         "G": 31,
-        "G♯": 32,
-        "A♭": 32
+        "G♯ or A♭": 32
     },
+    "Inversion Root Notes": ["A","A♯ or B♭","B","C","C♯ or D♭","D","D♯ or E♭","E","F","F♯ or G♭","G","G♯ or A♭"],
     "Scales": {
         "Major": [0,2,4,5,7,9,11],
         "Natural Minor": [0,2,3,5,7,8,10],
@@ -90,19 +86,18 @@
     },
     "Intervals": {
         "Simple": {
-            "Unison": 0,
-            "Minor Second": 1,
-            "Major Second": 2,
-            "Minor Third": 3,
-            "Major Third": 4,
-            "Perfect Fourth": 5,
-            "Tritone": 6,
-            "Perfect Fifth": 7,
-            "Minor Sixth": 8,
-            "Major Sixth": 9,
-            "Minor Seventh": 10,
-            "Major Seventh": 11,
-            "Perfect Octave": 12
+            "1": "Minor Second",
+            "2": "Major Second",
+            "3": "Minor Third",
+            "4": "Major Third",
+            "5": "Perfect Fourth",
+            "6": "Tritone",
+            "7": "Perfect Fifth",
+            "8": "Minor Sixth",
+            "9": "Major Sixth",
+            "10": "Minor Seventh",
+            "11": "Major Seventh",
+            "0": "Perfect Octave"
         },
         "Complex" : {
             "Diminished Second": 0,
@@ -394,7 +389,7 @@
         },
         "Omitting": {}
     },
-    "Chords": {
+    "ChordsOld": {
         "Triads": {
             "Major": {
                 "Root": [0,4,7],
@@ -656,6 +651,38 @@
                 "Fifth": [0,1,3,5,7,8,11],
                 "Sixth": [0,2,4,6,7,10,11]
             }
+        }
+    },
+    "Chords": {
+        "Triads": {
+            "Major": [0,4,7],
+            "Minor": [0,3,7],
+            "Augmented": [0,4,8],
+            "Diminished": [0,3,6],
+            "Suspended Second": [0,2,7],
+            "Suspended Fourth": [0,5,7],
+            "Minor Augmented Fifth": [0,3,8],
+            "Major Diminished Fifth": [0,4,6]
+        },
+        "Sixth": {
+            "Major": [0,4,7,9],
+            "Minor": [0,3,7,9],
+            "Major Augmented Fifth": [0,4,8,9],
+            "Minor Augmented Fifth": [0,3,8,9]
+        },
+        "Sevenths": {
+            "Major": [0,4,7,11],
+            "Dominant": [0,4,7,10],
+            "Dominant Sharp Fifth" : [0,4,8,10],
+            "Dominant Flat Fifth": [0,4,6,10],
+            "Minor Major": [0,3,7,11],
+            "Minor": [0,3,7,10],
+            "Minor Augmented Fifth": [0,3,8,10],
+            "Half Diminished": [0,3,6,10],
+            "Diminished": [0,3,6,9],
+            "Augmented": [0,4,8,10],
+            "Dominant Suspended Second": [0,2,7,10],
+            "Dominant Suspended Fourth": [0,5,7,10]
         }
     }
 }

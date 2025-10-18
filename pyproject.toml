@@ -9,3 +9,8 @@ dependencies = [
     "pygame>=2.6.1",
     "python-rtmidi>=1.5.8",
 ]
+
+[dependency-groups]
+dev = [
+    "basedpyright>=1.31.6",
+]
