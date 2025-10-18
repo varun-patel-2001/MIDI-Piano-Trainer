@@ -1,26 +1,5 @@
-# from collections.abc import Mapping, Sequence
-# from typing import TypeAlias
-
-# import json
-
-# JSON_ro: TypeAlias = Mapping[str, "JSON_ro"] | Sequence["JSON_ro"] | str | int | float | bool | None
-
 class Theory():
     def __init__(self) -> None:
-        # self.midi_conversion: dict[str, int] = {
-        #     "A": 21,
-        #     "A♯ or B♭": 22,
-        #     "B": 23,
-        #     "C": 24,
-        #     "C♯ or D♭": 25,
-        #     "D": 26,
-        #     "D♯ or E♭": 27,
-        #     "E": 28,
-        #     "F": 29,
-        #     "F♯ or G♭": 30,
-        #     "G": 31,
-        #     "G♯ or A♭": 32
-        # }
         self.root_notes: list[str] = [
             "A",
             "A♯ or B♭",
@@ -104,11 +83,6 @@ class Theory():
             21: "Thirteenth",
             22: "Sharp Thirteenth"
         }
-        # with open(file='theory.json',mode='r') as theory_file:
-        #     self.theory: JSON_ro = json.load(fp=theory_file)
-        
-    # def get_midi_converison(self) -> dict[str, int]:
-    #     return self.midi_conversion
     
     def get_root_notes(self) -> list[str]:
         return self.root_notes

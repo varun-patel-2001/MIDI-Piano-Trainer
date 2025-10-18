@@ -18,3 +18,9 @@ All notable changes to this project will be documented in this file.
 ### Removed
 
 - Chords and theory json files are no longer used and will be replaced with code, the files are still in the repo for the time being
+
+## 1.1.1 - 2025-10-17
+
+### Removed
+
+- Commented code from theory.py
