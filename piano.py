@@ -108,7 +108,7 @@ class Piano():
             self.chord_inversions[self.inversions[:rel_copy_len-1][rel_copy_len-2-i]] = relative_copy.copy()
         return self.chord_inversions
 
-    def notes_handler(self, message: mido.Message) -> None:
+    def notes_handler(self, message: mido.messages.messages.Message) -> None:
         """Gets relative and absolute notes and calls the appropriate functions"""
         message_note: int = message.note
         message_velocity: int = message.velocity
