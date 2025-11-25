@@ -12,5 +12,9 @@ It is a work in progress.
 - [ ] Add sounds to be played when user plays any note
 - [ ] Add GUI
 - [ ] Incorporate additional chords
+  - [x] Add Chords
+  - [x] Omit Chords
+  - [ ] Slash Chords
+  - [ ] Poly Chords
 - [ ] Add fingering techniques
 - [ ] Clean up code
