@@ -24,3 +24,17 @@ All notable changes to this project will be documented in this file.
 ### Removed
 
 - Commented code from theory.py
+
+## 1.2 - 2025-11-25
+
+### Added
+
+- Added unit tests as well as omittion and additions for chords
+
+### Changed
+
+- Multiple functions were changed in order to incorporate omit and add chords
+
+### Removed
+
+- Inversion of chords has been commented out and may be removed entirely depending on the way slash cords will be implemented in the future
